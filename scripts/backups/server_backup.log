@@ -1,0 +1,11 @@
+2012-09-30 14:04:20,298	CRITICAL	Command failed: [mc_survival] say Server restarting in 5 minutes
+2012-09-30 14:08:06,311	CRITICAL	Command failed: [mc_survival] say Server restarting in 5 minutes
+2012-09-30 14:08:06,314	CRITICAL	Command failed: [mc_survival] say Server restarting in 1 minute
+2012-09-30 14:08:06,314	INFO	Starting backup process for: 30-09-12-14-08-06
+2012-09-30 14:08:06,318	CRITICAL	Command failed: [mc_survival] say Starting backup
+2012-09-30 14:08:06,321	CRITICAL	Command failed: [mc_survival] save-all
+2012-09-30 14:08:06,325	CRITICAL	Command failed: [mc_survival] save-off
+2012-09-30 14:08:06,328	CRITICAL	Command failed: [mc_survival] stop
+2012-09-30 14:08:09,331	INFO	Current Backups: 
+2012-09-30 14:08:10,760	INFO	Tar check done.
+2012-09-30 14:08:10,761	INFO	Pushing to git.
