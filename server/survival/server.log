@@ -403,3 +403,54 @@
 2012-09-30 14:10:14 [INFO] [35;1m[Server] Backup complete[m
 2012-09-30 14:10:14 [INFO] [Metrics] Connection reset
 2012-09-30 14:10:14 [INFO] [Metrics] Connection reset
+2012-09-30 14:15:17 [INFO] [mcMMO] Loading mcMMO spout.yml File...
+2012-09-30 14:15:17 [INFO] lluoc[/14.200.158.249:60405] logged in with entity id 1474 at ([world] -62.42827841985101, 88.0, -29.62993764581081)
+2012-09-30 14:15:29 [INFO] Unknown command. Type "help" for help.[m
+2012-09-30 14:15:29 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-09-30 14:15:29 [INFO] Unknown command. Type "help" for help.[m
+2012-09-30 14:15:29 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-09-30 14:15:29 [INFO] Unknown command. Type "help" for help.[m
+2012-09-30 14:15:29 [INFO] [35;1m[Server] Starting backup[m
+2012-09-30 14:15:29 [INFO] Unknown command. Type "help" for help.[m
+2012-09-30 14:15:29 [INFO] CONSOLE: Stopping the server..[m
+2012-09-30 14:15:29 [INFO] Stopping server
+2012-09-30 14:15:29 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-09-30 14:15:29 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-09-30 14:15:29 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v1.6
+2012-09-30 14:15:29 [INFO] [Lockette] Disabled link to plugin PermissionsBukkit, version 1.6
+2012-09-30 14:15:29 [INFO] [Vault][Permission] PermissionsBukkit un-hooked.
+2012-09-30 14:15:29 [INFO] [PermissionsBukkit] Disabled successfully, 1 players unregistered
+2012-09-30 14:15:29 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b584
+2012-09-30 14:15:29 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-09-30 14:15:29 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-09-30 14:15:29 [INFO] [CreeperMess v1.2] Disabled!
+2012-09-30 14:15:29 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b222
+2012-09-30 14:15:29 [INFO] [Multiverse-Inventories 2.5-b222] disabled.
+2012-09-30 14:15:29 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b608
+2012-09-30 14:15:29 [INFO] [mcMMO] Disabling mcMMO v1.3.11-b1030
+2012-09-30 14:15:29 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.11-b1030
+2012-09-30 14:15:29 [INFO] Backing up your mcMMO Configuration... 
+2012-09-30 14:15:29 [INFO] Backup Completed.
+2012-09-30 14:15:29 [INFO] mcMMO was disabled.
+2012-09-30 14:15:29 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b591
+2012-09-30 14:15:29 [INFO] [Multiverse-Core] - Disabled
+2012-09-30 14:15:29 [INFO] [Vault] Disabling Vault v1.2.18-b229
+2012-09-30 14:15:29 [INFO] [Lockette] Disabling Lockette v1.7.4
+2012-09-30 14:15:29 [INFO] Lockette is being disabled...  ;.;
+2012-09-30 14:15:29 [INFO] [Lockette] Closing all automatic doors.
+2012-09-30 14:15:29 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-09-30 14:15:29 [INFO] SilkSpawners disabled
+2012-09-30 14:15:29 [WARNING] DSCT: Socket closed
+2012-09-30 14:15:29 [INFO] Saving players
+2012-09-30 14:15:29 [INFO] Closing listening thread
+2012-09-30 14:15:29 [INFO] Saving worlds
+2012-09-30 14:15:29 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-30 14:15:29 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-09-30 14:15:29 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-09-30 14:15:30 [INFO] Saving chunks for level 'fluid'/Overworld
+2012-09-30 14:15:30 [INFO] Saving chunks for level 'creative'/Overworld
+2012-09-30 14:15:30 [INFO] Saving chunks for level 'fluid_nether'/Nether
+2012-09-30 14:15:30 [INFO] Stopping server
+2012-09-30 14:15:30 [INFO] Saving players
+2012-09-30 14:15:30 [INFO] Saving worlds
+2012-09-30 14:15:30 [INFO] Saving chunks for level 'world'/Overworld
