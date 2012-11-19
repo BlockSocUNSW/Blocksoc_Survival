@@ -26253,3 +26253,83 @@
 2012-11-18 18:05:01 [INFO] CONSOLE: Save complete.[m
 2012-11-18 18:05:01 [INFO] Unknown command. Type "help" for help.[m
 2012-11-18 18:05:01 [INFO] CONSOLE: Disabled level saving..[m
+2012-11-18 18:07:00 [INFO] Unknown command. Type "help" for help.[m
+2012-11-18 18:07:00 [INFO] CONSOLE: Enabled level saving..[m
+2012-11-18 18:07:00 [INFO] Unknown command. Type "help" for help.[m
+2012-11-18 18:07:00 [INFO] CONSOLE: Forcing save..[m
+2012-11-18 18:07:00 [INFO] CONSOLE: Save complete.[m
+2012-11-18 18:07:00 [INFO] Unknown command. Type "help" for help.[m
+2012-11-18 18:07:00 [INFO] [35;1m[Server] Backup complete[m
+2012-11-18 18:08:16 [INFO] Disconnecting Ace_Boss [/88.240.144.160:55675]: Outdated server!
+2012-11-19 00:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 00:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-11-19 00:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 00:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-11-19 00:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 00:05:01 [INFO] [35;1m[Server] Starting backup[m
+2012-11-19 00:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 00:05:01 [INFO] CONSOLE: Forcing save..[m
+2012-11-19 00:05:01 [INFO] CONSOLE: Save complete.[m
+2012-11-19 00:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 00:05:01 [INFO] CONSOLE: Disabled level saving..[m
+2012-11-19 00:05:48 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 00:05:48 [INFO] CONSOLE: Enabled level saving..[m
+2012-11-19 00:05:48 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 00:05:48 [INFO] CONSOLE: Forcing save..[m
+2012-11-19 00:05:48 [INFO] CONSOLE: Save complete.[m
+2012-11-19 00:05:48 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 00:05:48 [INFO] [35;1m[Server] Backup complete[m
+2012-11-19 06:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 06:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-11-19 06:02:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-19 06:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 06:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-11-19 06:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 06:05:01 [INFO] [35;1m[Server] Starting backup[m
+2012-11-19 06:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 06:05:01 [INFO] CONSOLE: Forcing save..[m
+2012-11-19 06:05:01 [INFO] CONSOLE: Save complete.[m
+2012-11-19 06:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 06:05:01 [INFO] CONSOLE: Disabled level saving..[m
+2012-11-19 06:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-11-19 06:05:01 [INFO] CONSOLE: Stopping the server..[m
+2012-11-19 06:05:01 [INFO] Stopping server
+2012-11-19 06:05:01 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-11-19 06:05:01 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-11-19 06:05:01 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v1.6
+2012-11-19 06:05:01 [INFO] [Lockette] Disabled link to plugin PermissionsBukkit, version 1.6
+2012-11-19 06:05:01 [INFO] [Vault][Permission] PermissionsBukkit un-hooked.
+2012-11-19 06:05:01 [INFO] [PermissionsBukkit] Disabled successfully, 0 players unregistered
+2012-11-19 06:05:01 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b584
+2012-11-19 06:05:01 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-11-19 06:05:01 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-11-19 06:05:01 [INFO] [CreeperMess v1.2] Disabled!
+2012-11-19 06:05:01 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b222
+2012-11-19 06:05:01 [INFO] [Multiverse-Inventories 2.5-b222] disabled.
+2012-11-19 06:05:01 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b608
+2012-11-19 06:05:01 [INFO] [mcMMO] Disabling mcMMO v1.3.11-b1030
+2012-11-19 06:05:01 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.11-b1030
+2012-11-19 06:05:01 [INFO] Backing up your mcMMO Configuration... 
+2012-11-19 06:05:01 [INFO] Backup Completed.
+2012-11-19 06:05:01 [INFO] mcMMO was disabled.
+2012-11-19 06:05:01 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b591
+2012-11-19 06:05:01 [INFO] [Multiverse-Core] - Disabled
+2012-11-19 06:05:01 [INFO] [Vault] Disabling Vault v1.2.18-b229
+2012-11-19 06:05:01 [INFO] [Lockette] Disabling Lockette v1.7.4
+2012-11-19 06:05:01 [INFO] Lockette is being disabled...  ;.;
+2012-11-19 06:05:01 [INFO] [Lockette] Closing all automatic doors.
+2012-11-19 06:05:01 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-11-19 06:05:01 [INFO] SilkSpawners disabled
+2012-11-19 06:05:01 [INFO] Saving players
+2012-11-19 06:05:01 [WARNING] DSCT: Socket closed
+2012-11-19 06:05:01 [INFO] Closing listening thread
+2012-11-19 06:05:01 [INFO] Saving worlds
+2012-11-19 06:05:01 [INFO] Saving chunks for level 'world'/Overworld
+2012-11-19 06:05:02 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-11-19 06:05:02 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-11-19 06:05:02 [INFO] Saving chunks for level 'fluid'/Overworld
+2012-11-19 06:05:02 [INFO] Saving chunks for level 'creative'/Overworld
+2012-11-19 06:05:02 [INFO] Saving chunks for level 'fluid_nether'/Nether
+2012-11-19 06:05:02 [INFO] Stopping server
+2012-11-19 06:05:02 [INFO] Saving players
+2012-11-19 06:05:02 [INFO] Saving worlds
