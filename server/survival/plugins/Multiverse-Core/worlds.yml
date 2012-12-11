@@ -15,10 +15,12 @@ worlds:
       animals:
         ==: MVSpawnSubSettings
         spawn: 'true'
+        spawnrate: '-1'
         exceptions: []
       monsters:
         ==: MVSpawnSubSettings
         spawn: 'true'
+        spawnrate: '-1'
         exceptions: []
     entryfee:
       ==: MVEntryFee
@@ -43,6 +45,8 @@ worlds:
     environment: NORMAL
     seed: '-3021652546439280874'
     generator: 'null'
+    playerLimit: '-1'
+    allowFlight: 'true'
   creative:
     ==: MVWorld
     hidden: 'false'
@@ -59,10 +63,12 @@ worlds:
       animals:
         ==: MVSpawnSubSettings
         spawn: 'true'
+        spawnrate: '-1'
         exceptions: []
       monsters:
         ==: MVSpawnSubSettings
         spawn: 'true'
+        spawnrate: '-1'
         exceptions: []
     entryfee:
       ==: MVEntryFee
@@ -87,6 +93,8 @@ worlds:
     environment: NORMAL
     seed: '453453'
     generator: 'null'
+    playerLimit: '-1'
+    allowFlight: 'true'
   world_nether:
     ==: MVWorld
     hidden: 'false'
@@ -103,10 +111,12 @@ worlds:
       animals:
         ==: MVSpawnSubSettings
         spawn: 'true'
+        spawnrate: '-1'
         exceptions: []
       monsters:
         ==: MVSpawnSubSettings
         spawn: 'true'
+        spawnrate: '-1'
         exceptions: []
     entryfee:
       ==: MVEntryFee
@@ -131,6 +141,8 @@ worlds:
     environment: NETHER
     seed: '8744398351327703295'
     generator: 'null'
+    playerLimit: '-1'
+    allowFlight: 'true'
   fluid_nether:
     ==: MVWorld
     hidden: 'false'
@@ -147,10 +159,12 @@ worlds:
       animals:
         ==: MVSpawnSubSettings
         spawn: 'true'
+        spawnrate: '-1'
         exceptions: []
       monsters:
         ==: MVSpawnSubSettings
         spawn: 'true'
+        spawnrate: '-1'
         exceptions: []
     entryfee:
       ==: MVEntryFee
@@ -175,6 +189,8 @@ worlds:
     environment: NETHER
     seed: '-4035248619903658227'
     generator: 'null'
+    playerLimit: '-1'
+    allowFlight: 'true'
   world:
     ==: MVWorld
     hidden: 'false'
@@ -191,10 +207,12 @@ worlds:
       animals:
         ==: MVSpawnSubSettings
         spawn: 'true'
+        spawnrate: '-1'
         exceptions: []
       monsters:
         ==: MVSpawnSubSettings
         spawn: 'true'
+        spawnrate: '-1'
         exceptions: []
     entryfee:
       ==: MVEntryFee
@@ -219,6 +237,8 @@ worlds:
     environment: NORMAL
     seed: '-3821605025407244639'
     generator: 'null'
+    playerLimit: '-1'
+    allowFlight: 'true'
   world_the_end:
     ==: MVWorld
     hidden: 'false'
@@ -235,10 +255,12 @@ worlds:
       animals:
         ==: MVSpawnSubSettings
         spawn: 'true'
+        spawnrate: '-1'
         exceptions: []
       monsters:
         ==: MVSpawnSubSettings
         spawn: 'true'
+        spawnrate: '-1'
         exceptions: []
     entryfee:
       ==: MVEntryFee
@@ -263,3 +285,5 @@ worlds:
     environment: THE_END
     seed: '8744398351327703295'
     generator: 'null'
+    playerLimit: '-1'
+    allowFlight: 'true'
