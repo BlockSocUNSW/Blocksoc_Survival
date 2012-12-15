@@ -39560,3 +39560,220 @@
 2012-12-15 06:07:19 [INFO] Saving chunks for level 'fluid'/Overworld
 2012-12-15 06:07:19 [INFO] Saving chunks for level 'creative'/Overworld
 2012-12-15 06:07:19 [INFO] Saving chunks for level 'fluid_nether'/Nether
+2012-12-15 06:27:32 [INFO] Starting minecraft server version 1.4.5
+2012-12-15 06:27:35 [INFO] Loading properties
+2012-12-15 06:27:35 [INFO] Default game type: SURVIVAL
+2012-12-15 06:27:35 [INFO] Generating keypair
+2012-12-15 06:27:40 [INFO] Starting Minecraft server on *:25565
+2012-12-15 06:27:41 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.5-R0.2-b2488jnks (MC: 1.4.5) (Implementing API version 1.4.5-R0.2)
+2012-12-15 06:27:42 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-12-15 06:27:42 [INFO] [Lockette] Loading Lockette v1.7.4
+2012-12-15 06:27:42 [INFO] [Vault] Loading Vault v1.2.20-b264
+2012-12-15 06:27:42 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b646
+2012-12-15 06:27:42 [INFO] [mcMMO] Loading mcMMO v1.3.11-b1030
+2012-12-15 06:27:42 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.5-b662
+2012-12-15 06:27:42 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b305
+2012-12-15 06:27:42 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-12-15 06:27:42 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b643
+2012-12-15 06:27:42 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v1.6
+2012-12-15 06:27:42 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-12-15 06:27:42 [INFO] [Vault] Enabling Vault v1.2.20-b264
+2012-12-15 06:27:43 [INFO] [Vault][Permission] PermissionsBukkit hooked.
+2012-12-15 06:27:43 [INFO] [Vault][Permission] PermissionsBukkit found: Waiting
+2012-12-15 06:27:43 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-12-15 06:27:43 [INFO] [Vault] Enabled Version 1.2.20-b264
+2012-12-15 06:27:43 [INFO] [mcMMO] Enabling mcMMO v1.3.11-b1030
+2012-12-15 06:27:43 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-12-15 06:27:43 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-12-15 06:27:43 [INFO] [mcMMO] Loading mcMMO repair.vanilla.yml File...
+2012-12-15 06:27:43 [INFO] mcMMO version 1.3.11-b1030 is enabled!
+2012-12-15 06:27:43 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-15 06:27:43 [WARNING] Failed to save operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-15 06:27:43 [INFO] Preparing level "world"
+2012-12-15 06:27:43 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-12-15 06:27:44 [INFO] Preparing spawn area: 85%
+2012-12-15 06:27:45 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-12-15 06:27:45 [INFO] Preparing spawn area: 0%
+2012-12-15 06:27:46 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-12-15 06:27:46 [INFO] Preparing spawn area: 56%
+2012-12-15 06:27:47 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-12-15 06:27:47 [INFO] SilkSpawners enabled
+2012-12-15 06:27:47 [INFO] [Lockette] Enabling Lockette v1.7.4
+2012-12-15 06:27:47 [INFO] [Lockette] Version 1.7.4 is being enabled!  Yay!  (Core version 1.3.5)
+2012-12-15 06:27:47 [INFO] [Lockette] Detected craftbukkit build [2488] ok.
+2012-12-15 06:27:47 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-12-15 06:27:47 [INFO] [Lockette] Ignoring linked plugins: [mcMMO]
+2012-12-15 06:27:47 [INFO] [Lockette] Loading strings file for English by Acru
+2012-12-15 06:27:47 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.11-b1030
+2012-12-15 06:27:47 [INFO] [Lockette] Using ops file for admin permissions.
+2012-12-15 06:27:47 [INFO] [Lockette] Ready to protect your containers.
+2012-12-15 06:27:47 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b646
+2012-12-15 06:27:47 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.5-b646
+2012-12-15 06:27:48 [INFO] Preparing start region for level 3 (Seed: -3021652546439280874)
+2012-12-15 06:27:49 [INFO] Preparing start region for level 4 (Seed: 453453)
+2012-12-15 06:27:50 [INFO] Preparing spawn area for creative, 61%
+2012-12-15 06:27:51 [INFO] Preparing start region for level 5 (Seed: -4035248619903658227)
+2012-12-15 06:27:53 [INFO] Preparing spawn area for fluid_nether, 85%
+2012-12-15 06:27:53 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-12-15 06:28:03 [INFO] [Multiverse-Core] Version 2.5-b646 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-12-15 06:28:03 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b662
+2012-12-15 06:28:03 [INFO] [Multiverse-Portals] - Version 2.5-b662 Enabled - By Rigby and fernferret
+2012-12-15 06:28:07 [INFO] [MVPLogging] 7 - Portals(s) loaded
+2012-12-15 06:28:26 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b305
+2012-12-15 06:28:26 [INFO] [Multiverse-Inventories 2.5-b305] enabled.
+2012-12-15 06:28:26 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-12-15 06:28:26 [INFO] [CreeperMess v1.2] Enabled!
+2012-12-15 06:28:26 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b643
+2012-12-15 06:28:26 [INFO] [Multiverse-NetherPortals] - Version 2.5-b643 Enabled - By Rigby and fernferret
+2012-12-15 06:28:26 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v1.6
+2012-12-15 06:28:26 [INFO] [PermissionsBukkit] Enabled successfully, 0 players registered
+2012-12-15 06:28:26 [INFO] [Lockette] Enabled link to plugin PermissionsBukkit for Groups, version 1.6
+2012-12-15 06:28:26 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-12-15 06:28:26 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-12-15 06:28:26 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-12-15 06:28:27 [INFO] Done (43.448s)! For help, type "help" or "?"
+2012-12-15 06:28:30 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 06:28:30 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-15 06:28:30 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 06:28:30 [INFO] CONSOLE: Forcing save..[m
+2012-12-15 06:28:31 [INFO] CONSOLE: Save complete.[m
+2012-12-15 06:28:31 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 06:28:31 [INFO] [35;1m[Server] Backup complete[m
+2012-12-15 06:28:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 06:47:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 06:47:25 [INFO] Disconnecting clarebel [/110.33.97.186:62700]: Took too long to log in
+2012-12-15 06:47:45 [INFO] [mcMMO] Loading mcMMO spout.yml File...
+2012-12-15 06:47:45 [INFO] clarebel[/110.33.97.186:62704] logged in with entity id 1583 at ([world] 1689.53208628268, 68.0, -655.598198726729)
+2012-12-15 06:48:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 06:48:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 06:49:10 [INFO] [mcMMO] Loading mcMMO tools.yml File...
+2012-12-15 06:49:11 [INFO] [mcMMO] Loading mcMMO armor.yml File...
+2012-12-15 06:49:11 [INFO] [mcMMO] Loading mcMMO blocks.yml File...
+2012-12-15 06:49:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 06:50:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 06:51:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 06:51:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 06:52:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 06:55:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 06:57:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 06:59:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:06:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:07:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:12:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:19:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:22:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:22:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:25:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:29:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:32:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:32:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:33:50 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 5.4 blocks from clarebel
+2012-12-15 07:34:02 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 62 in world, 6.3 blocks from clarebel
+2012-12-15 07:34:27 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 65 in world, 5.0 blocks from clarebel
+2012-12-15 07:34:49 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 5.1 blocks from clarebel
+2012-12-15 07:37:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:38:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:39:42 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 66 in world, 5.8 blocks from clarebel
+2012-12-15 07:39:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:41:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:44:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:45:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:45:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:47:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:47:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:48:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:49:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:49:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:50:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:50:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:51:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:51:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:56:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:56:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 07:57:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:00:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:00:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:01:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:02:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:02:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:03:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:03:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:04:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:10:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:12:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:13:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:15:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:21:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:22:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-15 08:25:14 [INFO] Connection reset
+2012-12-15 08:25:14 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-15 08:54:32 [INFO] clarebel[/110.33.97.186:63368] logged in with entity id 77337 at ([world] 1588.2618658594567, 63.0, -802.6999999880791)
+2012-12-15 09:00:09 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-15 09:00:09 [INFO] Connection reset
+2012-12-15 09:18:45 [INFO] clarebel[/110.33.97.186:63426] logged in with entity id 81349 at ([world] 1671.8673024433392, 70.0, -807.3985808948477)
+2012-12-15 09:31:05 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+2012-12-15 09:31:05 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/mcMMO
+2012-12-15 09:54:59 [INFO] Connection reset
+2012-12-15 09:54:59 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-15 09:58:31 [INFO] clarebel[/110.33.97.186:63507] logged in with entity id 111173 at ([world] 1812.0922620401714, 37.0, -809.1796965005738)
+2012-12-15 09:59:12 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 34 in world, 3.2 blocks from clarebel
+2012-12-15 10:04:17 [INFO] Connection reset
+2012-12-15 10:04:18 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-15 10:04:23 [INFO] clarebel[/110.33.97.186:63510] logged in with entity id 114699 at ([world] 1821.3689224855607, 33.0, -784.3396421033699)
+2012-12-15 10:06:03 [INFO] Connection reset
+2012-12-15 10:06:03 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-15 10:11:53 [INFO] clarebel[/110.33.97.186:63520] logged in with entity id 116025 at ([world] 1821.642487079303, 32.0, -783.0299219918189)
+2012-12-15 11:00:32 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in world, 6.4 blocks from clarebel
+2012-12-15 11:48:29 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-15 11:48:29 [INFO] Connection reset
+2012-12-15 11:53:23 [INFO] clarebel[/110.33.97.186:63949] logged in with entity id 184503 at ([world] 1688.7545518253662, 5.0, -809.2787106543328)
+2012-12-15 12:00:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 12:00:02 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-12-15 12:04:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 12:04:02 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-12-15 12:04:16 [INFO] Connection reset
+2012-12-15 12:04:16 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-15 12:05:03 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 12:05:03 [INFO] [35;1m[Server] Starting backup[m
+2012-12-15 12:05:03 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 12:05:03 [INFO] CONSOLE: Forcing save..[m
+2012-12-15 12:05:03 [INFO] CONSOLE: Save complete.[m
+2012-12-15 12:05:03 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 12:05:03 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-15 12:05:03 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 12:05:03 [INFO] CONSOLE: Stopping the server..[m
+2012-12-15 12:05:03 [INFO] Stopping server
+2012-12-15 12:05:03 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-12-15 12:05:03 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-12-15 12:05:03 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v1.6
+2012-12-15 12:05:03 [INFO] [Lockette] Disabled link to plugin PermissionsBukkit, version 1.6
+2012-12-15 12:05:03 [INFO] [Vault][Permission] PermissionsBukkit un-hooked.
+2012-12-15 12:05:03 [INFO] [PermissionsBukkit] Disabled successfully, 0 players unregistered
+2012-12-15 12:05:03 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b643
+2012-12-15 12:05:03 [INFO] [Multiverse-NetherPortals] - Disabled
+2012-12-15 12:05:03 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-12-15 12:05:03 [INFO] [CreeperMess v1.2] Disabled!
+2012-12-15 12:05:03 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b305
+2012-12-15 12:05:03 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b662
+2012-12-15 12:05:03 [INFO] [mcMMO] Disabling mcMMO v1.3.11-b1030
+2012-12-15 12:05:03 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.11-b1030
+2012-12-15 12:05:05 [INFO] Backing up your mcMMO Configuration... 
+2012-12-15 12:05:05 [INFO] Backup Completed.
+2012-12-15 12:05:05 [INFO] mcMMO was disabled.
+2012-12-15 12:05:05 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b646
+2012-12-15 12:05:06 [INFO] [Vault] Disabling Vault v1.2.20-b264
+2012-12-15 12:05:06 [INFO] [Lockette] Disabling Lockette v1.7.4
+2012-12-15 12:05:06 [INFO] Lockette is being disabled...  ;.;
+2012-12-15 12:05:06 [INFO] [Lockette] Closing all automatic doors.
+2012-12-15 12:05:06 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-12-15 12:05:06 [INFO] SilkSpawners disabled
+2012-12-15 12:05:06 [INFO] Saving players
+2012-12-15 12:05:06 [INFO] Saving worlds
+2012-12-15 12:05:06 [WARNING] DSCT: Socket closed
+2012-12-15 12:05:06 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-15 12:05:06 [INFO] Closing listening thread
+2012-12-15 12:05:09 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-12-15 12:05:09 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-12-15 12:05:09 [INFO] Saving chunks for level 'fluid'/Overworld
+2012-12-15 12:05:09 [INFO] Saving chunks for level 'creative'/Overworld
+2012-12-15 12:05:09 [INFO] Saving chunks for level 'fluid_nether'/Nether
