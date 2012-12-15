@@ -39777,3 +39777,167 @@
 2012-12-15 12:05:09 [INFO] Saving chunks for level 'fluid'/Overworld
 2012-12-15 12:05:09 [INFO] Saving chunks for level 'creative'/Overworld
 2012-12-15 12:05:09 [INFO] Saving chunks for level 'fluid_nether'/Nether
+2012-12-15 12:08:30 [INFO] Starting minecraft server version 1.4.5
+2012-12-15 12:08:30 [INFO] Loading properties
+2012-12-15 12:08:30 [INFO] Default game type: SURVIVAL
+2012-12-15 12:08:30 [INFO] Generating keypair
+2012-12-15 12:08:30 [INFO] Starting Minecraft server on *:25565
+2012-12-15 12:08:30 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.5-R0.2-b2488jnks (MC: 1.4.5) (Implementing API version 1.4.5-R0.2)
+2012-12-15 12:08:31 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-12-15 12:08:31 [INFO] [Lockette] Loading Lockette v1.7.4
+2012-12-15 12:08:31 [INFO] [Vault] Loading Vault v1.2.20-b264
+2012-12-15 12:08:31 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b646
+2012-12-15 12:08:31 [INFO] [mcMMO] Loading mcMMO v1.3.11-b1030
+2012-12-15 12:08:31 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.5-b662
+2012-12-15 12:08:31 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b305
+2012-12-15 12:08:31 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-12-15 12:08:31 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b643
+2012-12-15 12:08:31 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v1.6
+2012-12-15 12:08:31 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-12-15 12:08:31 [INFO] [Vault] Enabling Vault v1.2.20-b264
+2012-12-15 12:08:31 [INFO] [Vault][Permission] PermissionsBukkit hooked.
+2012-12-15 12:08:31 [INFO] [Vault][Permission] PermissionsBukkit found: Waiting
+2012-12-15 12:08:31 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-12-15 12:08:31 [INFO] [Vault] Enabled Version 1.2.20-b264
+2012-12-15 12:08:31 [INFO] [mcMMO] Enabling mcMMO v1.3.11-b1030
+2012-12-15 12:08:31 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-12-15 12:08:31 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-12-15 12:08:31 [INFO] [mcMMO] Loading mcMMO repair.vanilla.yml File...
+2012-12-15 12:08:31 [INFO] mcMMO version 1.3.11-b1030 is enabled!
+2012-12-15 12:08:31 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-15 12:08:31 [WARNING] Failed to save operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-15 12:08:31 [INFO] Preparing level "world"
+2012-12-15 12:08:31 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-12-15 12:08:32 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-12-15 12:08:32 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-12-15 12:08:32 [INFO] Preparing spawn area: 36%
+2012-12-15 12:08:32 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-12-15 12:08:33 [INFO] SilkSpawners enabled
+2012-12-15 12:08:33 [INFO] [Lockette] Enabling Lockette v1.7.4
+2012-12-15 12:08:33 [INFO] [Lockette] Version 1.7.4 is being enabled!  Yay!  (Core version 1.3.5)
+2012-12-15 12:08:33 [INFO] [Lockette] Detected craftbukkit build [2488] ok.
+2012-12-15 12:08:33 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-12-15 12:08:33 [INFO] [Lockette] Ignoring linked plugins: [mcMMO]
+2012-12-15 12:08:33 [INFO] [Lockette] Loading strings file for English by Acru
+2012-12-15 12:08:33 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.11-b1030
+2012-12-15 12:08:33 [INFO] [Lockette] Using ops file for admin permissions.
+2012-12-15 12:08:33 [INFO] [Lockette] Ready to protect your containers.
+2012-12-15 12:08:33 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b646
+2012-12-15 12:08:33 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.5-b646
+2012-12-15 12:08:33 [INFO] Preparing start region for level 3 (Seed: -3021652546439280874)
+2012-12-15 12:08:34 [INFO] Preparing start region for level 4 (Seed: 453453)
+2012-12-15 12:08:34 [INFO] Preparing start region for level 5 (Seed: -4035248619903658227)
+2012-12-15 12:08:35 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-12-15 12:08:35 [INFO] [Multiverse-Core] Version 2.5-b646 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-12-15 12:08:35 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b662
+2012-12-15 12:08:35 [INFO] [Multiverse-Portals] - Version 2.5-b662 Enabled - By Rigby and fernferret
+2012-12-15 12:08:35 [INFO] [MVPLogging] 7 - Portals(s) loaded
+2012-12-15 12:08:35 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b305
+2012-12-15 12:08:35 [INFO] [Multiverse-Inventories 2.5-b305] enabled.
+2012-12-15 12:08:35 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-12-15 12:08:35 [INFO] [CreeperMess v1.2] Enabled!
+2012-12-15 12:08:35 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b643
+2012-12-15 12:08:35 [INFO] [Multiverse-NetherPortals] - Version 2.5-b643 Enabled - By Rigby and fernferret
+2012-12-15 12:08:35 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v1.6
+2012-12-15 12:08:35 [INFO] [PermissionsBukkit] Enabled successfully, 0 players registered
+2012-12-15 12:08:35 [INFO] [Lockette] Enabled link to plugin PermissionsBukkit for Groups, version 1.6
+2012-12-15 12:08:35 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-12-15 12:08:35 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-12-15 12:08:35 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-12-15 12:08:35 [INFO] Done (4.148s)! For help, type "help" or "?"
+2012-12-15 12:08:36 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 12:08:36 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-15 12:08:36 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 12:08:36 [INFO] CONSOLE: Forcing save..[m
+2012-12-15 12:08:36 [INFO] CONSOLE: Save complete.[m
+2012-12-15 12:08:36 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 12:08:36 [INFO] [35;1m[Server] Backup complete[m
+2012-12-15 12:08:51 [INFO] [mcMMO] Loading mcMMO spout.yml File...
+2012-12-15 12:08:51 [INFO] clarebel[/110.33.97.186:64373] logged in with entity id 1356 at ([world] 1698.537372904761, 14.0, -798.6339693230251)
+2012-12-15 12:09:18 [INFO] [mcMMO] Loading mcMMO tools.yml File...
+2012-12-15 12:09:18 [INFO] [mcMMO] Loading mcMMO armor.yml File...
+2012-12-15 12:09:18 [INFO] [mcMMO] Loading mcMMO blocks.yml File...
+2012-12-15 12:11:05 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 58 in world, 2.8 blocks from clarebel
+2012-12-15 12:59:02 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 13 in world, 2.8 blocks from clarebel
+2012-12-15 13:16:50 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 20 in world, 4.7 blocks from clarebel
+2012-12-15 13:18:01 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 14 in world, 4.5 blocks from clarebel
+2012-12-15 13:32:31 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 14 in world, 2.6 blocks from clarebel
+2012-12-15 13:34:59 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 18 in world, 1.2 blocks from clarebel
+2012-12-15 13:38:16 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 22 in world, 2.1 blocks from clarebel
+2012-12-15 13:38:33 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 20 in world, 2.8 blocks from clarebel
+2012-12-15 13:45:04 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 31 in world, 4.2 blocks from clarebel
+2012-12-15 13:51:36 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 11 in world, 4.7 blocks from clarebel
+2012-12-15 14:00:58 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-15 14:00:58 [INFO] Connection reset
+2012-12-15 14:07:53 [INFO] clarebel[/110.33.97.186:64800] logged in with entity id 95534 at ([world] 1902.6634535279768, 71.0, -761.1748208893699)
+2012-12-15 14:10:20 [INFO] Connection reset
+2012-12-15 14:10:20 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-15 14:10:48 [INFO] /110.33.97.186:63491 lost connection
+2012-12-15 14:11:08 [INFO] clarebel[/110.33.97.186:64814] logged in with entity id 98203 at ([world] 1610.300000011921, 66.0, -802.6999999880791)
+2012-12-15 14:11:18 [INFO] /110.33.97.186:63494 lost connection
+2012-12-15 14:16:54 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 38 in world, 5.2 blocks from clarebel
+2012-12-15 14:17:22 [INFO] Mr_Matty_Mouse[/110.33.97.186:63746] logged in with entity id 103281 at ([world] -25.5, 63.62000000476837, -20.5)
+2012-12-15 14:17:37 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-15 14:17:37 [INFO] Connection reset
+2012-12-15 14:21:04 [INFO] clarebel[/110.33.97.186:64832] logged in with entity id 110336 at ([world] 1803.9677564102703, 46.0, -768.1089583505435)
+2012-12-15 14:24:05 [INFO] [[34;1mStatic[37;1m]<clarebel> HELLO[m
+2012-12-15 14:25:07 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in world, 3.0 blocks from Mr_Matty_Mouse
+2012-12-15 14:30:02 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 65 in world, 5.4 blocks from Mr_Matty_Mouse
+2012-12-15 14:32:26 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 6.1 blocks from Mr_Matty_Mouse
+2012-12-15 14:38:00 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 5.0 blocks from Mr_Matty_Mouse
+2012-12-15 14:48:03 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in world, 6.6 blocks from clarebel
+2012-12-15 15:04:58 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 66 in world, 4.4 blocks from Mr_Matty_Mouse
+2012-12-15 15:22:08 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 65 in world, 3.9 blocks from Mr_Matty_Mouse
+2012-12-15 15:22:16 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 5.7 blocks from Mr_Matty_Mouse
+2012-12-15 15:22:40 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-15 15:22:40 [INFO] Connection reset
+2012-12-15 15:25:21 [INFO] Connection reset
+2012-12-15 15:25:21 [INFO] Mr_Matty_Mouse lost connection: disconnect.quitting
+2012-12-15 18:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 18:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-12-15 18:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 18:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-12-15 18:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 18:05:01 [INFO] [35;1m[Server] Starting backup[m
+2012-12-15 18:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 18:05:01 [INFO] CONSOLE: Forcing save..[m
+2012-12-15 18:05:01 [INFO] CONSOLE: Save complete.[m
+2012-12-15 18:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 18:05:01 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-15 18:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-15 18:05:01 [INFO] CONSOLE: Stopping the server..[m
+2012-12-15 18:05:01 [INFO] Stopping server
+2012-12-15 18:05:01 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-12-15 18:05:01 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-12-15 18:05:01 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v1.6
+2012-12-15 18:05:01 [INFO] [Lockette] Disabled link to plugin PermissionsBukkit, version 1.6
+2012-12-15 18:05:01 [INFO] [Vault][Permission] PermissionsBukkit un-hooked.
+2012-12-15 18:05:01 [INFO] [PermissionsBukkit] Disabled successfully, 0 players unregistered
+2012-12-15 18:05:01 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b643
+2012-12-15 18:05:01 [INFO] [Multiverse-NetherPortals] - Disabled
+2012-12-15 18:05:01 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-12-15 18:05:01 [INFO] [CreeperMess v1.2] Disabled!
+2012-12-15 18:05:01 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b305
+2012-12-15 18:05:01 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b662
+2012-12-15 18:05:01 [INFO] [mcMMO] Disabling mcMMO v1.3.11-b1030
+2012-12-15 18:05:01 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.11-b1030
+2012-12-15 18:05:02 [INFO] Backing up your mcMMO Configuration... 
+2012-12-15 18:05:02 [INFO] Backup Completed.
+2012-12-15 18:05:02 [INFO] mcMMO was disabled.
+2012-12-15 18:05:02 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b646
+2012-12-15 18:05:02 [INFO] [Vault] Disabling Vault v1.2.20-b264
+2012-12-15 18:05:02 [INFO] [Lockette] Disabling Lockette v1.7.4
+2012-12-15 18:05:02 [INFO] Lockette is being disabled...  ;.;
+2012-12-15 18:05:02 [INFO] [Lockette] Closing all automatic doors.
+2012-12-15 18:05:02 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-12-15 18:05:02 [INFO] SilkSpawners disabled
+2012-12-15 18:05:02 [INFO] Saving players
+2012-12-15 18:05:02 [WARNING] DSCT: Socket closed
+2012-12-15 18:05:02 [INFO] Saving worlds
+2012-12-15 18:05:02 [INFO] Closing listening thread
+2012-12-15 18:05:02 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-15 18:05:04 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-12-15 18:05:04 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-12-15 18:05:04 [INFO] Saving chunks for level 'fluid'/Overworld
+2012-12-15 18:05:04 [INFO] Saving chunks for level 'creative'/Overworld
+2012-12-15 18:05:04 [INFO] Saving chunks for level 'fluid_nether'/Nether
