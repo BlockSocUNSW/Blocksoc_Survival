@@ -40365,3 +40365,527 @@
 2012-12-16 06:05:05 [INFO] Saving chunks for level 'fluid'/Overworld
 2012-12-16 06:05:05 [INFO] Saving chunks for level 'creative'/Overworld
 2012-12-16 06:05:05 [INFO] Saving chunks for level 'fluid_nether'/Nether
+2012-12-16 06:08:47 [INFO] Starting minecraft server version 1.4.5
+2012-12-16 06:08:47 [INFO] Loading properties
+2012-12-16 06:08:47 [INFO] Default game type: SURVIVAL
+2012-12-16 06:08:47 [INFO] Generating keypair
+2012-12-16 06:08:48 [INFO] Starting Minecraft server on *:25565
+2012-12-16 06:08:48 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.5-R0.2-b2488jnks (MC: 1.4.5) (Implementing API version 1.4.5-R0.2)
+2012-12-16 06:08:48 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-12-16 06:08:48 [INFO] [Lockette] Loading Lockette v1.7.4
+2012-12-16 06:08:48 [INFO] [Vault] Loading Vault v1.2.20-b264
+2012-12-16 06:08:48 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b646
+2012-12-16 06:08:48 [INFO] [mcMMO] Loading mcMMO v1.3.11-b1030
+2012-12-16 06:08:48 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.5-b662
+2012-12-16 06:08:48 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b305
+2012-12-16 06:08:48 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-12-16 06:08:48 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b643
+2012-12-16 06:08:48 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v1.6
+2012-12-16 06:08:48 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-12-16 06:08:48 [INFO] [Vault] Enabling Vault v1.2.20-b264
+2012-12-16 06:08:48 [INFO] [Vault][Permission] PermissionsBukkit hooked.
+2012-12-16 06:08:48 [INFO] [Vault][Permission] PermissionsBukkit found: Waiting
+2012-12-16 06:08:48 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-12-16 06:08:48 [INFO] [Vault] Enabled Version 1.2.20-b264
+2012-12-16 06:08:48 [INFO] [mcMMO] Enabling mcMMO v1.3.11-b1030
+2012-12-16 06:08:48 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-12-16 06:08:48 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-12-16 06:08:48 [INFO] [mcMMO] Loading mcMMO repair.vanilla.yml File...
+2012-12-16 06:08:48 [INFO] mcMMO version 1.3.11-b1030 is enabled!
+2012-12-16 06:08:49 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-16 06:08:49 [WARNING] Failed to save operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-16 06:08:49 [INFO] Preparing level "world"
+2012-12-16 06:08:49 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-12-16 06:08:49 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-12-16 06:08:50 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-12-16 06:08:50 [INFO] Preparing spawn area: 52%
+2012-12-16 06:08:50 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-12-16 06:08:50 [INFO] SilkSpawners enabled
+2012-12-16 06:08:50 [INFO] [Lockette] Enabling Lockette v1.7.4
+2012-12-16 06:08:50 [INFO] [Lockette] Version 1.7.4 is being enabled!  Yay!  (Core version 1.3.5)
+2012-12-16 06:08:50 [INFO] [Lockette] Detected craftbukkit build [2488] ok.
+2012-12-16 06:08:50 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-12-16 06:08:50 [INFO] [Lockette] Ignoring linked plugins: [mcMMO]
+2012-12-16 06:08:50 [INFO] [Lockette] Loading strings file for English by Acru
+2012-12-16 06:08:50 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.11-b1030
+2012-12-16 06:08:50 [INFO] [Lockette] Using ops file for admin permissions.
+2012-12-16 06:08:50 [INFO] [Lockette] Ready to protect your containers.
+2012-12-16 06:08:50 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b646
+2012-12-16 06:08:50 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.5-b646
+2012-12-16 06:08:51 [INFO] Preparing start region for level 3 (Seed: -3021652546439280874)
+2012-12-16 06:08:51 [INFO] Preparing start region for level 4 (Seed: 453453)
+2012-12-16 06:08:52 [INFO] Preparing start region for level 5 (Seed: -4035248619903658227)
+2012-12-16 06:08:52 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-12-16 06:08:52 [INFO] [Multiverse-Core] Version 2.5-b646 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-12-16 06:08:52 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b662
+2012-12-16 06:08:52 [INFO] [Multiverse-Portals] - Version 2.5-b662 Enabled - By Rigby and fernferret
+2012-12-16 06:08:52 [INFO] [MVPLogging] 7 - Portals(s) loaded
+2012-12-16 06:08:52 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b305
+2012-12-16 06:08:52 [INFO] [Multiverse-Inventories 2.5-b305] enabled.
+2012-12-16 06:08:52 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-12-16 06:08:52 [INFO] [CreeperMess v1.2] Enabled!
+2012-12-16 06:08:52 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b643
+2012-12-16 06:08:52 [INFO] [Multiverse-NetherPortals] - Version 2.5-b643 Enabled - By Rigby and fernferret
+2012-12-16 06:08:52 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v1.6
+2012-12-16 06:08:52 [INFO] [PermissionsBukkit] Enabled successfully, 0 players registered
+2012-12-16 06:08:52 [INFO] [Lockette] Enabled link to plugin PermissionsBukkit for Groups, version 1.6
+2012-12-16 06:08:52 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-12-16 06:08:52 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-12-16 06:08:52 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-12-16 06:08:52 [INFO] Done (3.860s)! For help, type "help" or "?"
+2012-12-16 06:08:53 [INFO] Unknown command. Type "help" for help.[m
+2012-12-16 06:08:53 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-16 06:08:53 [INFO] Unknown command. Type "help" for help.[m
+2012-12-16 06:08:53 [INFO] CONSOLE: Forcing save..[m
+2012-12-16 06:08:53 [INFO] CONSOLE: Save complete.[m
+2012-12-16 06:08:53 [INFO] Unknown command. Type "help" for help.[m
+2012-12-16 06:08:53 [INFO] [35;1m[Server] Backup complete[m
+2012-12-16 06:10:07 [INFO] [mcMMO] Loading mcMMO spout.yml File...
+2012-12-16 06:10:07 [INFO] mikeyberman[/27.32.52.240:52020] logged in with entity id 1378 at ([world] 1884.4275982832787, 62.0, -699.6877993532881)
+2012-12-16 06:10:28 [INFO] [mcMMO] Loading mcMMO tools.yml File...
+2012-12-16 06:10:28 [INFO] [mcMMO] Loading mcMMO armor.yml File...
+2012-12-16 06:10:28 [INFO] [mcMMO] Loading mcMMO blocks.yml File...
+2012-12-16 06:10:37 [INFO] clarebel[/110.33.97.186:49998] logged in with entity id 1688 at ([world] 1826.5, 68.0, -707.5)
+2012-12-16 06:24:00 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 1.2 blocks from clarebel
+2012-12-16 06:27:45 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 5.1 blocks from clarebel
+2012-12-16 06:55:32 [INFO] [Lockette] mikeyberman has claimed a container.
+2012-12-16 06:55:42 [INFO] [Lockette] mikeyberman has claimed a container.
+2012-12-16 07:01:47 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 39 in world, 4.0 blocks from clarebel
+2012-12-16 07:01:48 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 39 in world, 0.6 blocks from clarebel
+2012-12-16 07:16:19 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 25 in world, 3.6 blocks from clarebel
+2012-12-16 07:26:45 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 17 in world, 5.8 blocks from clarebel
+2012-12-16 07:42:21 [INFO] Connection reset
+2012-12-16 07:42:21 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 07:50:35 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 28 in world, 1.4 blocks from mikeyberman
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:50:35 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 07:58:28 [INFO] Connection reset
+2012-12-16 07:58:28 [INFO] mikeyberman lost connection: disconnect.quitting
+2012-12-16 07:59:18 [INFO] mikeyberman[/27.32.52.240:50843] logged in with entity id 173512 at ([world] 1877.2369057334097, 23.0, -677.6104699041151)
+2012-12-16 08:00:05 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 23 in world, 2.6 blocks from mikeyberman
+2012-12-16 08:04:33 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 24 in world, 2.4 blocks from mikeyberman
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 24 in world, 3.2 blocks from mikeyberman
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:05:20 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:22:19 [INFO] [Lockette] mikeyberman has released a container.
+2012-12-16 08:23:23 [INFO] [Lockette] mikeyberman has claimed a container.
+2012-12-16 08:27:12 [INFO] lluoc[/14.200.92.110:49318] logged in with entity id 196441 at ([world] -66.30000001192093, 80.0, -20.29610344485462)
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error attempting to apply json nbt compound to stack
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:28 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:45 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:45 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:45 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:45 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:45 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:45 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:45 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:45 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:45 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:45 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:29:45 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:00 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:00 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:00 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:00 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:00 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:00 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:00 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:00 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:06 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:06 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:06 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:06 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:06 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:06 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:06 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:06 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:06 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:06 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:06 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 08:30:09 [INFO] Connection reset
+2012-12-16 08:30:09 [INFO] lluoc lost connection: disconnect.quitting
+2012-12-16 08:33:01 [INFO] clarebel[/110.33.97.186:50598] logged in with entity id 203929 at ([world] 1829.754076970199, 68.0, -705.8887953376751)
+2012-12-16 08:33:10 [INFO] [[34;1mStatic[37;1m]<clarebel> still onlin berman?[m
+2012-12-16 08:33:22 [INFO] [[34;1mStatic[37;1m]<mikeyberman> yep[m
+2012-12-16 08:33:45 [INFO] [[34;1mStatic[37;1m]<clarebel> kk, i wont turn skype on yet and see if it helps lag[m
+2012-12-16 08:34:24 [INFO] [[34;1mStatic[37;1m]<mikeyberman> can you find a bed? my house is a bit open at the moment[m
+2012-12-16 08:34:45 [INFO] [[34;1mStatic[37;1m]<clarebel> so sleep?[m
+2012-12-16 08:34:57 [INFO] [[34;1mStatic[37;1m]<mikeyberman> i in bed[m
+2012-12-16 08:36:04 [INFO] [[34;1mStatic[37;1m]<clarebel> siiiigh so much for my medievel theme[m
+2012-12-16 08:48:22 [INFO] [[34;1mStatic[37;1m]<clarebel> how high is the sky?[m
+2012-12-16 08:48:42 [INFO] [[34;1mStatic[37;1m]<mikeyberman> I think it's Y 256[m
+2012-12-16 08:48:45 [INFO] [[34;1mStatic[37;1m]<mikeyberman> not certain[m
+2012-12-16 08:49:14 [INFO] [[34;1mStatic[37;1m]<clarebel> cool... so a lot higher than 77[m
+2012-12-16 08:49:30 [INFO] [[34;1mStatic[37;1m]<mikeyberman> Yes. Definitely 128 or higher[m
+2012-12-16 08:52:58 [INFO] Read timed out
+2012-12-16 08:52:58 [INFO] mikeyberman lost connection: disconnect.endOfStream
+2012-12-16 08:53:59 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-16 08:53:59 [INFO] Connection reset
+2012-12-16 09:13:49 [INFO] mikeyberman[/27.32.52.240:57117] logged in with entity id 219296 at ([world] 1884.5044027904853, 53.0, -699.393981821835)
+2012-12-16 09:14:22 [INFO] mikeyberman lost connection: disconnect.endOfStream
+2012-12-16 09:16:07 [INFO] mikeyberman[/27.32.52.240:65434] logged in with entity id 219614 at ([world] 1886.4151296530447, 53.0, -693.5117214861017)
+2012-12-16 09:20:11 [INFO] clarebel[/110.33.97.186:50794] logged in with entity id 221993 at ([world] 1884.3018440867772, 83.0, -832.8763363712523)
+2012-12-16 09:20:18 [INFO] [[34;1mStatic[37;1m]<mikeyberman> ahoy[m
+2012-12-16 09:21:05 [INFO] Connection reset
+2012-12-16 09:21:05 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-16 09:21:11 [INFO] clarebel[/110.33.97.186:50801] logged in with entity id 222882 at ([world] 1878.6582014124745, 84.0, -830.6109934187524)
+2012-12-16 09:50:45 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in world, 2.7 blocks from clarebel
+2012-12-16 09:53:35 [INFO] Connection reset
+2012-12-16 09:53:35 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-16 09:56:28 [INFO] Connection reset
+2012-12-16 09:56:28 [INFO] mikeyberman lost connection: disconnect.quitting
+2012-12-16 10:03:22 [INFO] mikeyberman[/27.32.52.240:61361] logged in with entity id 249195 at ([world] 1886.9766872537264, 62.0, -700.157384045285)
+2012-12-16 10:19:15 [WARNING] mikeyberman moved too quickly! -2.1779548974973295,11.510893484361134,-6.988833237226231 (2.1779548974973295, 11.510893484361134, 6.988833237226231)
+2012-12-16 10:21:19 [INFO] mikeyberman lost connection: disconnect.quitting
+2012-12-16 10:21:19 [INFO] Connection reset
+2012-12-16 10:21:27 [INFO] mikeyberman[/27.32.52.240:60329] logged in with entity id 260193 at ([world] 1881.237500011921, 62.0, -700.6858539728305)
+2012-12-16 10:21:46 [INFO] clarebel[/110.33.97.186:50951] logged in with entity id 260439 at ([world] 1830.8168157398063, 68.0, -705.7982225069607)
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:24:26 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:26:13 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 48 in world, 2.7 blocks from mikeyberman
+2012-12-16 10:26:18 [WARNING] mikeyberman moved too quickly! -12.649402565272567,-0.8943997031450266,-25.210784258389026 (12.649402565272567, 0.8943997031450266, 25.210784258389026)
+2012-12-16 10:26:40 [INFO] Connection reset
+2012-12-16 10:26:40 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-16 10:27:31 [INFO] H4ZM4T[/60.241.170.155:49909] logged in with entity id 267428 at ([world] 1975.710440936471, 64.62015154301072, -687.215819578713)
+2012-12-16 10:27:39 [INFO] [[34;1mStatic[37;1m]<mikeyberman> mornin nellie[m
+2012-12-16 10:27:47 [INFO] [[34;1mStatic[37;1m]<mikeyberman> it's massively laggy[m
+2012-12-16 10:27:47 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> mornin[m
+2012-12-16 10:28:07 [INFO] [[34;1mStatic[37;1m]<mikeyberman> i just died from a skellington attack 30 seconds after I waslked away from it[m
+2012-12-16 10:28:17 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hehe[m
+2012-12-16 10:28:39 [INFO] H4ZM4T issued server command: /gamemode 1 h4zm4t
+2012-12-16 10:28:39 [INFO] H4ZM4T: Set own game mode to CREATIVE mode[m
+2012-12-16 10:29:12 [WARNING] mikeyberman moved wrongly!
+2012-12-16 10:29:15 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I assumne the glass building is yours[m
+2012-12-16 10:29:29 [INFO] [[34;1mStatic[37;1m]<mikeyberman> yep[m
+2012-12-16 10:30:54 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> clare is not here?[m
+2012-12-16 10:30:59 [INFO] [[34;1mStatic[37;1m]<mikeyberman> nope[m
+2012-12-16 10:31:04 [INFO] [[34;1mStatic[37;1m]<mikeyberman> she's here occasionally[m
+2012-12-16 10:31:07 [INFO] [[34;1mStatic[37;1m]<mikeyberman> probs dinnering now[m
+2012-12-16 10:32:00 [INFO] lluoc[/14.200.92.110:52337] logged in with entity id 273778 at ([world] -23.5, 63.0, 2.5)
+2012-12-16 10:32:14 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> morning lluoc[m
+2012-12-16 10:32:22 [INFO] [[34;1mStatic[37;1m]<lluoc> hey nelly, did you know that the people who made Far Cry 3 made a minecraft map[m
+2012-12-16 10:32:27 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> yup[m
+2012-12-16 10:32:27 [INFO] [[34;1mStatic[37;1m]<lluoc> off far cry...[m
+2012-12-16 10:32:31 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I heard[m
+2012-12-16 10:32:35 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> not the full map[m
+2012-12-16 10:32:37 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> but still[m
+2012-12-16 10:32:48 [INFO] [[34;1mStatic[37;1m]<lluoc> I can set that up on the server I think[m
+2012-12-16 10:32:58 [INFO] [[34;1mStatic[37;1m]<lluoc> still have to look at it yet[m
+2012-12-16 10:33:56 [INFO] [[34;1mStatic[37;1m]<lluoc> what's going on in static btw?[m
+2012-12-16 10:34:06 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> not much[m
+2012-12-16 10:34:17 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> lag[m
+2012-12-16 10:34:25 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hey berman[m
+2012-12-16 10:34:29 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> look at mah fece[m
+2012-12-16 10:34:35 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> *face[m
+2012-12-16 10:34:38 [INFO] [[34;1mStatic[37;1m]<lluoc> test[m
+2012-12-16 10:34:57 [INFO] [[34;1mStatic[37;1m]<mikeyberman> seen it[m
+2012-12-16 10:34:59 [INFO] [[34;1mStatic[37;1m]<lluoc> the lag I'm getting is the normal.[m
+2012-12-16 10:35:01 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> 1..2...1....2[m
+2012-12-16 10:36:46 [INFO] H4ZM4T issued server command: /tp h4zm4t lluoc
+2012-12-16 10:36:46 [INFO] H4ZM4T: Teleported H4ZM4T to lluoc[m
+2012-12-16 10:36:53 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> morning[m
+2012-12-16 10:37:21 [INFO] [[34;1mStatic[37;1m]<lluoc> oh hai[m
+2012-12-16 10:37:24 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> look at mah sword[m
+2012-12-16 10:37:32 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> mah sword is amazing[m
+2012-12-16 10:37:38 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hehehe[m
+2012-12-16 10:37:41 [INFO] [[34;1mStatic[37;1m]<lluoc> sigh[m
+2012-12-16 10:37:42 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> see its name?[m
+2012-12-16 10:37:45 [INFO] [[34;1mStatic[37;1m]<lluoc> ... sigh[m
+2012-12-16 10:37:48 [INFO] [[34;1mStatic[37;1m]<lluoc> SIGH[m
+2012-12-16 10:37:49 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> ehehehehehehhe[m
+2012-12-16 10:37:58 [INFO] [[34;1mStatic[37;1m]<lluoc> dare  you to attack me[m
+2012-12-16 10:37:59 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> that was clares housemates decision[m
+2012-12-16 10:38:14 [INFO] [[34;1mStatic[37;1m]<lluoc> ... actually[m
+2012-12-16 10:38:17 [INFO] [[34;1mStatic[37;1m]<lluoc> dont.[m
+2012-12-16 10:38:23 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> heh[m
+2012-12-16 10:38:27 [INFO] [[34;1mStatic[37;1m]<lluoc> it takes forever to get the wolves back in their room[m
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:19 [WARNING] [Multiverse-Inventories] Error while converting nbt compound to json
+2012-12-16 10:39:25 [INFO] Read timed out
+2012-12-16 10:39:25 [INFO] mikeyberman lost connection: disconnect.endOfStream
+2012-12-16 10:39:40 [INFO] /27.32.52.240:64024 lost connection
+2012-12-16 10:41:14 [INFO] mikeyberman[/27.32.52.240:61846] logged in with entity id 289351 at ([world] 1885.831636178036, 67.1749999821186, -692.6906087022262)
+2012-12-16 10:41:52 [INFO] Connection reset
+2012-12-16 10:41:52 [INFO] mikeyberman lost connection: disconnect.quitting
+2012-12-16 10:41:57 [INFO] Connection reset
+2012-12-16 10:44:03 [INFO] Connection reset
+2012-12-16 10:44:03 [INFO] lluoc lost connection: disconnect.quitting
+2012-12-16 10:45:49 [INFO] mikeyberman[/27.32.52.240:49175] logged in with entity id 293660 at ([world] 1885.7412941983982, 66.9789999783039, -692.6183960629614)
+2012-12-16 10:46:09 [INFO] Connection reset
+2012-12-16 10:46:09 [INFO] mikeyberman lost connection: disconnect.endOfStream
+2012-12-16 10:47:31 [INFO] Connection reset
+2012-12-16 10:47:31 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-12-16 10:58:37 [INFO] clarebel[/110.33.97.186:51466] logged in with entity id 296460 at ([world] 1814.3151130853003, 63.0, -847.6478442757998)
+2012-12-16 11:01:39 [INFO] There are 1/30 players online:
+clarebel[m
+2012-12-16 11:10:20 [INFO] CONSOLE: Set time to 0[m
+2012-12-16 11:10:24 [WARNING] Failed to save operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-16 11:10:24 [INFO] CONSOLE: Opped lluoc[m
+2012-12-16 11:10:34 [INFO] There are 1/30 players online:
+clarebel[m
+2012-12-16 11:12:27 [INFO] Connection reset
+2012-12-16 11:12:27 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-16 11:12:32 [INFO] clarebel[/110.33.97.186:51485] logged in with entity id 304015 at ([world] 1826.5, 68.0, -707.5)
+2012-12-16 11:17:21 [INFO] mikeyberman[/27.32.52.240:54866] logged in with entity id 308062 at ([world] 1885.7169437526807, 66.9789999783039, -692.5876764288159)
+2012-12-16 11:17:27 [INFO] [[34;1mStatic[37;1m]<clarebel> yo[m
+2012-12-16 11:17:42 [INFO] [[34;1mStatic[37;1m]<mikeyberman> i'm glitching[m
+2012-12-16 11:17:50 [INFO] [[34;1mStatic[37;1m]<mikeyberman> need a server admin to teleport me[m
+2012-12-16 11:17:52 [INFO] [[34;1mStatic[37;1m]<clarebel> me too, badly[m
+2012-12-16 11:18:03 [INFO] [[34;1mStatic[37;1m]<mikeyberman> maybe just lag[m
+2012-12-16 11:18:06 [INFO] [[34;1mStatic[37;1m]<mikeyberman> imma go to bed[m
+2012-12-16 11:18:08 [INFO] [[34;1mStatic[37;1m]<mikeyberman> night night[m
+2012-12-16 11:18:19 [INFO] [[34;1mStatic[37;1m]<clarebel> sleep tight[m
+2012-12-16 11:18:24 [INFO] Connection reset
+2012-12-16 11:18:24 [INFO] mikeyberman lost connection: disconnect.quitting
+2012-12-16 11:28:50 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in world, 5.7 blocks from clarebel
+2012-12-16 11:38:46 [INFO] Connection reset
+2012-12-16 11:38:46 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-16 11:39:24 [INFO] clarebel[/110.33.97.186:51498] logged in with entity id 320221 at ([world] 1850.722402801528, 63.0, -984.8301138153361)
+2012-12-16 11:56:20 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 32 in world, 3.3 blocks from clarebel
+2012-12-16 11:56:25 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 33 in world, 6.9 blocks from clarebel
+2012-12-16 12:00:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-16 12:00:02 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-12-16 12:04:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-16 12:04:02 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-12-16 12:04:14 [INFO] Connection reset
+2012-12-16 12:04:14 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-16 12:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-16 12:05:02 [INFO] [35;1m[Server] Starting backup[m
+2012-12-16 12:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-16 12:05:02 [INFO] CONSOLE: Forcing save..[m
+2012-12-16 12:05:02 [INFO] CONSOLE: Save complete.[m
+2012-12-16 12:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-16 12:05:02 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-16 12:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-16 12:05:02 [INFO] CONSOLE: Stopping the server..[m
+2012-12-16 12:05:02 [INFO] Stopping server
+2012-12-16 12:05:02 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-12-16 12:05:02 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-12-16 12:05:02 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v1.6
+2012-12-16 12:05:02 [INFO] [Lockette] Disabled link to plugin PermissionsBukkit, version 1.6
+2012-12-16 12:05:02 [INFO] [Vault][Permission] PermissionsBukkit un-hooked.
+2012-12-16 12:05:02 [INFO] [PermissionsBukkit] Disabled successfully, 0 players unregistered
+2012-12-16 12:05:02 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b643
+2012-12-16 12:05:02 [INFO] [Multiverse-NetherPortals] - Disabled
+2012-12-16 12:05:02 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-12-16 12:05:02 [INFO] [CreeperMess v1.2] Disabled!
+2012-12-16 12:05:02 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b305
+2012-12-16 12:05:02 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b662
+2012-12-16 12:05:02 [INFO] [mcMMO] Disabling mcMMO v1.3.11-b1030
+2012-12-16 12:05:02 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.11-b1030
+2012-12-16 12:05:03 [INFO] Backing up your mcMMO Configuration... 
+2012-12-16 12:05:03 [INFO] Backup Completed.
+2012-12-16 12:05:03 [INFO] mcMMO was disabled.
+2012-12-16 12:05:03 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b646
+2012-12-16 12:05:03 [INFO] [Vault] Disabling Vault v1.2.20-b264
+2012-12-16 12:05:03 [INFO] [Lockette] Disabling Lockette v1.7.4
+2012-12-16 12:05:03 [INFO] Lockette is being disabled...  ;.;
+2012-12-16 12:05:03 [INFO] [Lockette] Closing all automatic doors.
+2012-12-16 12:05:03 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-12-16 12:05:03 [INFO] SilkSpawners disabled
+2012-12-16 12:05:03 [INFO] Saving players
+2012-12-16 12:05:03 [WARNING] DSCT: Socket closed
+2012-12-16 12:05:03 [INFO] Saving worlds
+2012-12-16 12:05:03 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-16 12:05:03 [INFO] Closing listening thread
+2012-12-16 12:05:05 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-12-16 12:05:05 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-12-16 12:05:05 [INFO] Saving chunks for level 'fluid'/Overworld
+2012-12-16 12:05:05 [INFO] Saving chunks for level 'creative'/Overworld
+2012-12-16 12:05:05 [INFO] Saving chunks for level 'fluid_nether'/Nether
