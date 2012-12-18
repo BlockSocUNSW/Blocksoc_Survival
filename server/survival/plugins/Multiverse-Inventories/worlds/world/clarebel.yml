@@ -1,6 +1,6 @@
 SURVIVAL:
-  enderChestContents: '{}'
-  inventoryContents: '{}'
-  potions: '[]'
   armorContents: '{}'
+  potions: '[]'
+  inventoryContents: '{}'
+  enderChestContents: '{}'
   stats: '{"ex":"2.191998","ra":"300","hp":"20","txp":"0","fl":"20","el":"0","ma":"300","sa":"5.0","xp":"0.0","ft":"-20","fd":"0.0"}'
