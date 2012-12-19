@@ -42746,3 +42746,252 @@ clarebel[m
 2012-12-19 12:05:03 [INFO] Saving chunks for level 'fluid'/Overworld
 2012-12-19 12:05:03 [INFO] Saving chunks for level 'creative'/Overworld
 2012-12-19 12:05:03 [INFO] Saving chunks for level 'fluid_nether'/Nether
+2012-12-19 12:08:37 [INFO] Starting minecraft server version 1.4.5
+2012-12-19 12:08:37 [INFO] Loading properties
+2012-12-19 12:08:37 [INFO] Default game type: SURVIVAL
+2012-12-19 12:08:37 [INFO] Generating keypair
+2012-12-19 12:08:37 [INFO] Starting Minecraft server on *:25565
+2012-12-19 12:08:37 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.5-R0.2-b2488jnks (MC: 1.4.5) (Implementing API version 1.4.5-R0.2)
+2012-12-19 12:08:38 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-12-19 12:08:38 [INFO] [Lockette] Loading Lockette v1.7.4
+2012-12-19 12:08:38 [INFO] [Vault] Loading Vault v1.2.20-b264
+2012-12-19 12:08:38 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b646
+2012-12-19 12:08:38 [INFO] [mcMMO] Loading mcMMO v1.3.11-b1030
+2012-12-19 12:08:38 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.5-b662
+2012-12-19 12:08:38 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b305
+2012-12-19 12:08:38 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-12-19 12:08:38 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b643
+2012-12-19 12:08:38 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v1.6
+2012-12-19 12:08:38 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-12-19 12:08:38 [INFO] [Vault] Enabling Vault v1.2.20-b264
+2012-12-19 12:08:38 [INFO] [Vault][Permission] PermissionsBukkit hooked.
+2012-12-19 12:08:38 [INFO] [Vault][Permission] PermissionsBukkit found: Waiting
+2012-12-19 12:08:38 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-12-19 12:08:38 [INFO] [Vault] Enabled Version 1.2.20-b264
+2012-12-19 12:08:38 [INFO] [mcMMO] Enabling mcMMO v1.3.11-b1030
+2012-12-19 12:08:38 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-12-19 12:08:38 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-12-19 12:08:38 [INFO] [mcMMO] Loading mcMMO repair.vanilla.yml File...
+2012-12-19 12:08:38 [INFO] mcMMO version 1.3.11-b1030 is enabled!
+2012-12-19 12:08:38 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-19 12:08:38 [WARNING] Failed to save operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-19 12:08:38 [INFO] Preparing level "world"
+2012-12-19 12:08:38 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-12-19 12:08:39 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-12-19 12:08:39 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-12-19 12:08:39 [INFO] Preparing spawn area: 44%
+2012-12-19 12:08:39 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-12-19 12:08:39 [INFO] SilkSpawners enabled
+2012-12-19 12:08:39 [INFO] [Lockette] Enabling Lockette v1.7.4
+2012-12-19 12:08:39 [INFO] [Lockette] Version 1.7.4 is being enabled!  Yay!  (Core version 1.3.5)
+2012-12-19 12:08:39 [INFO] [Lockette] Detected craftbukkit build [2488] ok.
+2012-12-19 12:08:39 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-12-19 12:08:39 [INFO] [Lockette] Ignoring linked plugins: [mcMMO]
+2012-12-19 12:08:39 [INFO] [Lockette] Loading strings file for English by Acru
+2012-12-19 12:08:39 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.11-b1030
+2012-12-19 12:08:39 [INFO] [Lockette] Using ops file for admin permissions.
+2012-12-19 12:08:39 [INFO] [Lockette] Ready to protect your containers.
+2012-12-19 12:08:39 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b646
+2012-12-19 12:08:39 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.5-b646
+2012-12-19 12:08:40 [INFO] Preparing start region for level 3 (Seed: -3021652546439280874)
+2012-12-19 12:08:40 [INFO] Preparing start region for level 4 (Seed: 453453)
+2012-12-19 12:08:41 [INFO] Preparing start region for level 5 (Seed: -4035248619903658227)
+2012-12-19 12:08:41 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-12-19 12:08:42 [INFO] [Multiverse-Core] Version 2.5-b646 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-12-19 12:08:42 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b662
+2012-12-19 12:08:42 [INFO] [Multiverse-Portals] - Version 2.5-b662 Enabled - By Rigby and fernferret
+2012-12-19 12:08:42 [INFO] [MVPLogging] 7 - Portals(s) loaded
+2012-12-19 12:08:42 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b305
+2012-12-19 12:08:42 [INFO] [Multiverse-Inventories 2.5-b305] enabled.
+2012-12-19 12:08:42 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-12-19 12:08:42 [INFO] [CreeperMess v1.2] Enabled!
+2012-12-19 12:08:42 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b643
+2012-12-19 12:08:42 [INFO] [Multiverse-NetherPortals] - Version 2.5-b643 Enabled - By Rigby and fernferret
+2012-12-19 12:08:42 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v1.6
+2012-12-19 12:08:42 [INFO] [PermissionsBukkit] Enabled successfully, 0 players registered
+2012-12-19 12:08:42 [INFO] [Lockette] Enabled link to plugin PermissionsBukkit for Groups, version 1.6
+2012-12-19 12:08:42 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-12-19 12:08:42 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-12-19 12:08:42 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-12-19 12:08:42 [INFO] Done (3.909s)! For help, type "help" or "?"
+2012-12-19 12:08:42 [INFO] Unknown command. Type "help" for help.[m
+2012-12-19 12:08:42 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-19 12:08:42 [INFO] Unknown command. Type "help" for help.[m
+2012-12-19 12:08:42 [INFO] CONSOLE: Forcing save..[m
+2012-12-19 12:08:42 [INFO] CONSOLE: Save complete.[m
+2012-12-19 12:08:42 [INFO] Unknown command. Type "help" for help.[m
+2012-12-19 12:08:42 [INFO] [35;1m[Server] Backup complete[m
+2012-12-19 18:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-19 18:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-12-19 18:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-19 18:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-12-19 18:05:04 [INFO] Unknown command. Type "help" for help.[m
+2012-12-19 18:05:04 [INFO] [35;1m[Server] Starting backup[m
+2012-12-19 18:05:04 [INFO] Unknown command. Type "help" for help.[m
+2012-12-19 18:05:04 [INFO] CONSOLE: Forcing save..[m
+2012-12-19 18:05:06 [INFO] CONSOLE: Save complete.[m
+2012-12-19 18:05:06 [INFO] Unknown command. Type "help" for help.[m
+2012-12-19 18:05:06 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-19 18:05:06 [INFO] Unknown command. Type "help" for help.[m
+2012-12-19 18:05:06 [INFO] CONSOLE: Stopping the server..[m
+2012-12-19 18:05:06 [INFO] Stopping server
+2012-12-19 18:05:06 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-12-19 18:05:06 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-12-19 18:05:06 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v1.6
+2012-12-19 18:05:06 [INFO] [Lockette] Disabled link to plugin PermissionsBukkit, version 1.6
+2012-12-19 18:05:06 [INFO] [Vault][Permission] PermissionsBukkit un-hooked.
+2012-12-19 18:05:06 [INFO] [PermissionsBukkit] Disabled successfully, 0 players unregistered
+2012-12-19 18:05:06 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b643
+2012-12-19 18:05:06 [INFO] [Multiverse-NetherPortals] - Disabled
+2012-12-19 18:05:06 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-12-19 18:05:06 [INFO] [CreeperMess v1.2] Disabled!
+2012-12-19 18:05:06 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b305
+2012-12-19 18:05:06 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b662
+2012-12-19 18:05:06 [INFO] [mcMMO] Disabling mcMMO v1.3.11-b1030
+2012-12-19 18:05:06 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.11-b1030
+2012-12-19 18:05:10 [INFO] Backing up your mcMMO Configuration... 
+2012-12-19 18:05:20 [INFO] Backup Completed.
+2012-12-19 18:05:20 [INFO] mcMMO was disabled.
+2012-12-19 18:05:20 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b646
+2012-12-19 18:05:21 [INFO] [Vault] Disabling Vault v1.2.20-b264
+2012-12-19 18:05:21 [INFO] [Lockette] Disabling Lockette v1.7.4
+2012-12-19 18:05:21 [INFO] Lockette is being disabled...  ;.;
+2012-12-19 18:05:21 [INFO] [Lockette] Closing all automatic doors.
+2012-12-19 18:05:21 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-12-19 18:05:21 [INFO] SilkSpawners disabled
+2012-12-19 18:05:21 [INFO] Saving players
+2012-12-19 18:05:21 [WARNING] DSCT: Socket closed
+2012-12-19 18:05:21 [INFO] Saving worlds
+2012-12-19 18:05:21 [INFO] Closing listening thread
+2012-12-19 18:05:21 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-19 18:05:21 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-12-19 18:05:21 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-12-19 18:05:21 [INFO] Saving chunks for level 'fluid'/Overworld
+2012-12-19 18:05:21 [INFO] Saving chunks for level 'creative'/Overworld
+2012-12-19 18:05:21 [INFO] Saving chunks for level 'fluid_nether'/Nether
+2012-12-19 18:06:45 [INFO] Starting minecraft server version 1.4.5
+2012-12-19 18:06:45 [INFO] Loading properties
+2012-12-19 18:06:45 [INFO] Default game type: SURVIVAL
+2012-12-19 18:06:45 [INFO] Generating keypair
+2012-12-19 18:06:45 [INFO] Starting Minecraft server on *:25565
+2012-12-19 18:06:45 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.5-R0.2-b2488jnks (MC: 1.4.5) (Implementing API version 1.4.5-R0.2)
+2012-12-19 18:06:46 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-12-19 18:06:46 [INFO] [Lockette] Loading Lockette v1.7.4
+2012-12-19 18:06:46 [INFO] [Vault] Loading Vault v1.2.20-b264
+2012-12-19 18:06:46 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b646
+2012-12-19 18:06:46 [INFO] [mcMMO] Loading mcMMO v1.3.11-b1030
+2012-12-19 18:06:46 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.5-b662
+2012-12-19 18:06:46 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b305
+2012-12-19 18:06:46 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-12-19 18:06:46 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b643
+2012-12-19 18:06:46 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v1.6
+2012-12-19 18:06:46 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-12-19 18:06:46 [INFO] [Vault] Enabling Vault v1.2.20-b264
+2012-12-19 18:06:46 [INFO] [Vault][Permission] PermissionsBukkit hooked.
+2012-12-19 18:06:46 [INFO] [Vault][Permission] PermissionsBukkit found: Waiting
+2012-12-19 18:06:46 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-12-19 18:06:46 [INFO] [Vault] Enabled Version 1.2.20-b264
+2012-12-19 18:06:46 [INFO] [mcMMO] Enabling mcMMO v1.3.11-b1030
+2012-12-19 18:06:46 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-12-19 18:06:46 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-12-19 18:06:46 [INFO] [mcMMO] Loading mcMMO repair.vanilla.yml File...
+2012-12-19 18:06:46 [INFO] mcMMO version 1.3.11-b1030 is enabled!
+2012-12-19 18:06:46 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-19 18:06:46 [WARNING] Failed to save operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-19 18:06:46 [INFO] Preparing level "world"
+2012-12-19 18:06:46 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-12-19 18:06:47 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-12-19 18:06:47 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-12-19 18:06:47 [INFO] Preparing spawn area: 16%
+2012-12-19 18:06:47 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-12-19 18:06:47 [INFO] SilkSpawners enabled
+2012-12-19 18:06:47 [INFO] [Lockette] Enabling Lockette v1.7.4
+2012-12-19 18:06:47 [INFO] [Lockette] Version 1.7.4 is being enabled!  Yay!  (Core version 1.3.5)
+2012-12-19 18:06:47 [INFO] [Lockette] Detected craftbukkit build [2488] ok.
+2012-12-19 18:06:47 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-12-19 18:06:47 [INFO] [Lockette] Ignoring linked plugins: [mcMMO]
+2012-12-19 18:06:47 [INFO] [Lockette] Loading strings file for English by Acru
+2012-12-19 18:06:47 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.11-b1030
+2012-12-19 18:06:47 [INFO] [Lockette] Using ops file for admin permissions.
+2012-12-19 18:06:47 [INFO] [Lockette] Ready to protect your containers.
+2012-12-19 18:06:47 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b646
+2012-12-19 18:06:47 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.5-b646
+2012-12-19 18:06:48 [INFO] Preparing start region for level 3 (Seed: -3021652546439280874)
+2012-12-19 18:06:48 [INFO] Preparing start region for level 4 (Seed: 453453)
+2012-12-19 18:06:49 [INFO] Preparing start region for level 5 (Seed: -4035248619903658227)
+2012-12-19 18:06:49 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-12-19 18:06:50 [INFO] [Multiverse-Core] Version 2.5-b646 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-12-19 18:06:50 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b662
+2012-12-19 18:06:50 [INFO] [Multiverse-Portals] - Version 2.5-b662 Enabled - By Rigby and fernferret
+2012-12-19 18:06:50 [INFO] [MVPLogging] 7 - Portals(s) loaded
+2012-12-19 18:06:50 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b305
+2012-12-19 18:06:50 [INFO] [Multiverse-Inventories 2.5-b305] enabled.
+2012-12-19 18:06:50 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-12-19 18:06:50 [INFO] [CreeperMess v1.2] Enabled!
+2012-12-19 18:06:50 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b643
+2012-12-19 18:06:50 [INFO] [Multiverse-NetherPortals] - Version 2.5-b643 Enabled - By Rigby and fernferret
+2012-12-19 18:06:50 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v1.6
+2012-12-19 18:06:50 [INFO] [PermissionsBukkit] Enabled successfully, 0 players registered
+2012-12-19 18:06:50 [INFO] [Lockette] Enabled link to plugin PermissionsBukkit for Groups, version 1.6
+2012-12-19 18:06:50 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-12-19 18:06:50 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-12-19 18:06:50 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-12-19 18:06:50 [INFO] Done (3.981s)! For help, type "help" or "?"
+2012-12-19 18:06:50 [INFO] Unknown command. Type "help" for help.[m
+2012-12-19 18:06:50 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-19 18:06:50 [INFO] Unknown command. Type "help" for help.[m
+2012-12-19 18:06:50 [INFO] CONSOLE: Forcing save..[m
+2012-12-19 18:06:50 [INFO] CONSOLE: Save complete.[m
+2012-12-19 18:06:50 [INFO] Unknown command. Type "help" for help.[m
+2012-12-19 18:06:50 [INFO] [35;1m[Server] Backup complete[m
+2012-12-20 00:00:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-20 00:00:02 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-12-20 00:04:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-20 00:04:02 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-12-20 00:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-20 00:05:02 [INFO] [35;1m[Server] Starting backup[m
+2012-12-20 00:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-20 00:05:02 [INFO] CONSOLE: Forcing save..[m
+2012-12-20 00:05:02 [INFO] CONSOLE: Save complete.[m
+2012-12-20 00:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-20 00:05:02 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-20 00:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-20 00:05:02 [INFO] CONSOLE: Stopping the server..[m
+2012-12-20 00:05:02 [INFO] Stopping server
+2012-12-20 00:05:02 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-12-20 00:05:02 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-12-20 00:05:02 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v1.6
+2012-12-20 00:05:02 [INFO] [Lockette] Disabled link to plugin PermissionsBukkit, version 1.6
+2012-12-20 00:05:02 [INFO] [Vault][Permission] PermissionsBukkit un-hooked.
+2012-12-20 00:05:02 [INFO] [PermissionsBukkit] Disabled successfully, 0 players unregistered
+2012-12-20 00:05:02 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b643
+2012-12-20 00:05:02 [INFO] [Multiverse-NetherPortals] - Disabled
+2012-12-20 00:05:02 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-12-20 00:05:02 [INFO] [CreeperMess v1.2] Disabled!
+2012-12-20 00:05:02 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b305
+2012-12-20 00:05:02 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b662
+2012-12-20 00:05:02 [INFO] [mcMMO] Disabling mcMMO v1.3.11-b1030
+2012-12-20 00:05:02 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.11-b1030
+2012-12-20 00:05:02 [INFO] Backing up your mcMMO Configuration... 
+2012-12-20 00:05:02 [INFO] Backup Completed.
+2012-12-20 00:05:02 [INFO] mcMMO was disabled.
+2012-12-20 00:05:02 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b646
+2012-12-20 00:05:02 [INFO] [Vault] Disabling Vault v1.2.20-b264
+2012-12-20 00:05:02 [INFO] [Lockette] Disabling Lockette v1.7.4
+2012-12-20 00:05:02 [INFO] Lockette is being disabled...  ;.;
+2012-12-20 00:05:02 [INFO] [Lockette] Closing all automatic doors.
+2012-12-20 00:05:02 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-12-20 00:05:02 [INFO] SilkSpawners disabled
+2012-12-20 00:05:02 [INFO] Saving players
+2012-12-20 00:05:02 [INFO] Saving worlds
+2012-12-20 00:05:02 [WARNING] DSCT: Socket closed
+2012-12-20 00:05:02 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-20 00:05:02 [INFO] Closing listening thread
+2012-12-20 00:05:04 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-12-20 00:05:04 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-12-20 00:05:04 [INFO] Saving chunks for level 'fluid'/Overworld
+2012-12-20 00:05:04 [INFO] Saving chunks for level 'creative'/Overworld
+2012-12-20 00:05:04 [INFO] Saving chunks for level 'fluid_nether'/Nether
+2012-12-20 00:05:04 [INFO] Stopping server
+2012-12-20 00:05:04 [INFO] Saving players
+2012-12-20 00:05:04 [INFO] Saving worlds
