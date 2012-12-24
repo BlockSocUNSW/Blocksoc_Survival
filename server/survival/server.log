@@ -46295,3 +46295,192 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.server.Entity
 2012-12-24 00:05:02 [INFO] Stopping server
 2012-12-24 00:05:02 [INFO] Saving players
 2012-12-24 00:05:02 [INFO] Saving worlds
+2012-12-24 00:09:23 [INFO] Starting minecraft server version 1.4.6
+2012-12-24 00:09:23 [INFO] Loading properties
+2012-12-24 00:09:23 [INFO] Default game type: SURVIVAL
+2012-12-24 00:09:23 [INFO] Generating keypair
+2012-12-24 00:09:23 [INFO] Starting Minecraft server on *:25565
+2012-12-24 00:09:23 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.5-R1.0-8-g2c72461-b2551jnks (MC: 1.4.6) (Implementing API version 1.4.6-R0.1-SNAPSHOT)
+2012-12-24 00:09:24 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-12-24 00:09:24 [INFO] [Lockette] Loading Lockette v1.7.4
+2012-12-24 00:09:24 [INFO] [Vault] Loading Vault v1.2.20-b264
+2012-12-24 00:09:24 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b646
+2012-12-24 00:09:24 [INFO] [mcMMO] Loading mcMMO v1.3.11-b1030
+2012-12-24 00:09:24 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.5-b662
+2012-12-24 00:09:24 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b305
+2012-12-24 00:09:24 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-12-24 00:09:24 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b643
+2012-12-24 00:09:24 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v1.6
+2012-12-24 00:09:24 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-12-24 00:09:24 [INFO] [Vault] Enabling Vault v1.2.20-b264
+2012-12-24 00:09:24 [INFO] [Vault][Permission] PermissionsBukkit hooked.
+2012-12-24 00:09:24 [INFO] [Vault][Permission] PermissionsBukkit found: Waiting
+2012-12-24 00:09:24 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-12-24 00:09:24 [INFO] [Vault] Enabled Version 1.2.20-b264
+2012-12-24 00:09:24 [INFO] [mcMMO] Enabling mcMMO v1.3.11-b1030
+2012-12-24 00:09:24 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-12-24 00:09:24 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-12-24 00:09:24 [INFO] [mcMMO] Loading mcMMO repair.vanilla.yml File...
+2012-12-24 00:09:24 [INFO] mcMMO version 1.3.11-b1030 is enabled!
+2012-12-24 00:09:24 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-24 00:09:24 [WARNING] Failed to save operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-24 00:09:24 [INFO] Preparing level "world"
+2012-12-24 00:09:24 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-12-24 00:09:25 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-12-24 00:09:25 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-12-24 00:09:25 [INFO] Preparing spawn area: 48%
+2012-12-24 00:09:25 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-12-24 00:09:25 [SEVERE] Error occurred while enabling SilkSpawners v2.0.1 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/minecraft/server/EntityTypes
+	at me.exphc.SilkSpawners.SilkSpawners.scanEntityMap(SilkSpawners.java:548)
+	at me.exphc.SilkSpawners.SilkSpawners.loadConfig(SilkSpawners.java:578)
+	at me.exphc.SilkSpawners.SilkSpawners.onEnable(SilkSpawners.java:467)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at net.minecraft.server.v1_4_6.MinecraftServer.j(MinecraftServer.java:321)
+	at net.minecraft.server.v1_4_6.MinecraftServer.e(MinecraftServer.java:300)
+	at net.minecraft.server.v1_4_6.MinecraftServer.a(MinecraftServer.java:259)
+	at net.minecraft.server.v1_4_6.DedicatedServer.init(DedicatedServer.java:149)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:399)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.server.EntityTypes
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:70)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:247)
+	... 14 more
+2012-12-24 00:09:25 [INFO] [Lockette] Enabling Lockette v1.7.4
+2012-12-24 00:09:25 [INFO] [Lockette] Version 1.7.4 is being enabled!  Yay!  (Core version 1.3.5)
+2012-12-24 00:09:25 [INFO] [Lockette] Detected craftbukkit build [2551] ok.
+2012-12-24 00:09:25 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-12-24 00:09:25 [INFO] [Lockette] Ignoring linked plugins: [mcMMO]
+2012-12-24 00:09:25 [INFO] [Lockette] Loading strings file for English by Acru
+2012-12-24 00:09:25 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.11-b1030
+2012-12-24 00:09:25 [INFO] [Lockette] Using ops file for admin permissions.
+2012-12-24 00:09:25 [INFO] [Lockette] Ready to protect your containers.
+2012-12-24 00:09:25 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b646
+2012-12-24 00:09:25 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.5-b646
+2012-12-24 00:09:26 [INFO] Preparing start region for level 3 (Seed: -3021652546439280874)
+2012-12-24 00:09:26 [INFO] Preparing start region for level 4 (Seed: 453453)
+2012-12-24 00:09:27 [INFO] Preparing start region for level 5 (Seed: -4035248619903658227)
+2012-12-24 00:09:27 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-12-24 00:09:27 [INFO] [Multiverse-Core] Version 2.5-b646 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-12-24 00:09:27 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b662
+2012-12-24 00:09:27 [INFO] [Multiverse-Portals] - Version 2.5-b662 Enabled - By Rigby and fernferret
+2012-12-24 00:09:28 [INFO] [MVPLogging] 7 - Portals(s) loaded
+2012-12-24 00:09:34 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b305
+2012-12-24 00:09:34 [INFO] [Multiverse-Inventories 2.5-b305] enabled.
+2012-12-24 00:09:34 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-12-24 00:09:34 [INFO] [CreeperMess v1.2] Enabled!
+2012-12-24 00:09:34 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b643
+2012-12-24 00:09:34 [INFO] [Multiverse-NetherPortals] - Version 2.5-b643 Enabled - By Rigby and fernferret
+2012-12-24 00:09:34 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v1.6
+2012-12-24 00:09:34 [INFO] [PermissionsBukkit] Enabled successfully, 0 players registered
+2012-12-24 00:09:34 [INFO] [Lockette] Enabled link to plugin PermissionsBukkit for Groups, version 1.6
+2012-12-24 00:09:34 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-12-24 00:09:34 [SEVERE] Error occurred while enabling MobRider v0.45.2-b43 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/minecraft/server/Entity
+	at com.edwardhand.mobrider.MobRider.registerEvents(MobRider.java:59)
+	at com.edwardhand.mobrider.MobRider.onEnable(MobRider.java:80)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at net.minecraft.server.v1_4_6.MinecraftServer.j(MinecraftServer.java:321)
+	at net.minecraft.server.v1_4_6.MinecraftServer.e(MinecraftServer.java:300)
+	at net.minecraft.server.v1_4_6.MinecraftServer.a(MinecraftServer.java:259)
+	at net.minecraft.server.v1_4_6.DedicatedServer.init(DedicatedServer.java:149)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:399)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.server.Entity
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:70)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:247)
+	... 13 more
+2012-12-24 00:09:34 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-12-24 00:09:34 [INFO] Done (10.298s)! For help, type "help" or "?"
+2012-12-24 00:09:34 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 00:09:34 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-24 00:09:34 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 00:09:34 [INFO] CONSOLE: Forcing save..[m
+2012-12-24 00:09:35 [INFO] CONSOLE: Save complete.[m
+2012-12-24 00:09:35 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 00:09:35 [INFO] [35;1m[Server] Backup complete[m
+2012-12-24 00:38:17 [INFO] [mcMMO] Loading mcMMO spout.yml File...
+2012-12-24 00:38:17 [INFO] mikeyberman[/27.32.52.240:53829] logged in with entity id 1489 at ([world] 1885.2759805214484, 62.0, -700.6183006596281)
+2012-12-24 00:43:23 [INFO] [mcMMO] Loading mcMMO tools.yml File...
+2012-12-24 00:43:23 [INFO] [mcMMO] Loading mcMMO armor.yml File...
+2012-12-24 00:43:23 [INFO] [mcMMO] Loading mcMMO blocks.yml File...
+2012-12-24 01:51:16 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in world, 5.8 blocks from mikeyberman
+2012-12-24 02:10:37 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+2012-12-24 02:10:37 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/mcMMO
+2012-12-24 02:16:05 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 65 in world, 4.8 blocks from mikeyberman
+2012-12-24 02:39:34 [INFO] [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/mcMMO
+2012-12-24 02:40:37 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+2012-12-24 02:57:51 [INFO] Connection reset
+2012-12-24 02:57:51 [INFO] mikeyberman lost connection: disconnect.quitting
+2012-12-24 02:57:56 [INFO] mikeyberman[/27.32.52.240:64121] logged in with entity id 95057 at ([world] 1917.300000011921, 63.0, -686.8513196889311)
+2012-12-24 02:59:09 [INFO] mikeyberman lost connection: disconnect.quitting
+2012-12-24 02:59:09 [INFO] Connection reset
+2012-12-24 03:10:37 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+2012-12-24 03:10:37 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/mcMMO
+2012-12-24 03:50:34 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+2012-12-24 03:50:34 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/mcMMO
+2012-12-24 04:10:37 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/mcMMO
+2012-12-24 04:10:37 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+2012-12-24 06:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 06:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-12-24 06:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 06:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-12-24 06:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 06:05:01 [INFO] [35;1m[Server] Starting backup[m
+2012-12-24 06:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 06:05:01 [INFO] CONSOLE: Forcing save..[m
+2012-12-24 06:05:02 [INFO] CONSOLE: Save complete.[m
+2012-12-24 06:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 06:05:02 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-24 06:05:02 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 06:05:02 [INFO] CONSOLE: Stopping the server..[m
+2012-12-24 06:05:02 [INFO] Stopping server
+2012-12-24 06:05:02 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-12-24 06:05:02 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-12-24 06:05:02 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v1.6
+2012-12-24 06:05:02 [INFO] [Lockette] Disabled link to plugin PermissionsBukkit, version 1.6
+2012-12-24 06:05:02 [INFO] [Vault][Permission] PermissionsBukkit un-hooked.
+2012-12-24 06:05:02 [INFO] [PermissionsBukkit] Disabled successfully, 0 players unregistered
+2012-12-24 06:05:02 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b643
+2012-12-24 06:05:02 [INFO] [Multiverse-NetherPortals] - Disabled
+2012-12-24 06:05:02 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-12-24 06:05:02 [INFO] [CreeperMess v1.2] Disabled!
+2012-12-24 06:05:02 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b305
+2012-12-24 06:05:02 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b662
+2012-12-24 06:05:02 [INFO] [mcMMO] Disabling mcMMO v1.3.11-b1030
+2012-12-24 06:05:02 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.11-b1030
+2012-12-24 06:05:02 [INFO] Backing up your mcMMO Configuration... 
+2012-12-24 06:05:02 [INFO] Backup Completed.
+2012-12-24 06:05:02 [INFO] mcMMO was disabled.
+2012-12-24 06:05:02 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b646
+2012-12-24 06:05:02 [INFO] [Vault] Disabling Vault v1.2.20-b264
+2012-12-24 06:05:02 [INFO] [Lockette] Disabling Lockette v1.7.4
+2012-12-24 06:05:02 [INFO] Lockette is being disabled...  ;.;
+2012-12-24 06:05:02 [INFO] [Lockette] Closing all automatic doors.
+2012-12-24 06:05:02 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-12-24 06:05:02 [INFO] SilkSpawners disabled
+2012-12-24 06:05:02 [INFO] Saving players
+2012-12-24 06:05:02 [WARNING] DSCT: Socket closed
+2012-12-24 06:05:02 [INFO] Saving worlds
+2012-12-24 06:05:02 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-24 06:05:02 [INFO] Closing listening thread
+2012-12-24 06:05:03 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-12-24 06:05:03 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-12-24 06:05:03 [INFO] Saving chunks for level 'fluid'/Overworld
+2012-12-24 06:05:03 [INFO] Saving chunks for level 'creative'/Overworld
+2012-12-24 06:05:03 [INFO] Saving chunks for level 'fluid_nether'/Nether
+2012-12-24 06:05:03 [INFO] Stopping server
+2012-12-24 06:05:03 [INFO] Saving players
+2012-12-24 06:05:03 [INFO] Saving worlds
