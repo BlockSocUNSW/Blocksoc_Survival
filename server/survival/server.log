@@ -46484,3 +46484,1619 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.server.Entity
 2012-12-24 06:05:03 [INFO] Stopping server
 2012-12-24 06:05:03 [INFO] Saving players
 2012-12-24 06:05:03 [INFO] Saving worlds
+2012-12-24 06:07:52 [INFO] Starting minecraft server version 1.4.6
+2012-12-24 06:07:52 [INFO] Loading properties
+2012-12-24 06:07:52 [INFO] Default game type: SURVIVAL
+2012-12-24 06:07:52 [INFO] Generating keypair
+2012-12-24 06:07:52 [INFO] Starting Minecraft server on *:25565
+2012-12-24 06:07:53 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.5-R1.0-8-g2c72461-b2551jnks (MC: 1.4.6) (Implementing API version 1.4.6-R0.1-SNAPSHOT)
+2012-12-24 06:07:53 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-12-24 06:07:53 [INFO] [Lockette] Loading Lockette v1.7.4
+2012-12-24 06:07:53 [INFO] [Vault] Loading Vault v1.2.20-b264
+2012-12-24 06:07:53 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b646
+2012-12-24 06:07:53 [INFO] [mcMMO] Loading mcMMO v1.3.11-b1030
+2012-12-24 06:07:53 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.5-b662
+2012-12-24 06:07:53 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b305
+2012-12-24 06:07:53 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-12-24 06:07:53 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b643
+2012-12-24 06:07:53 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v1.6
+2012-12-24 06:07:53 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-12-24 06:07:53 [INFO] [Vault] Enabling Vault v1.2.20-b264
+2012-12-24 06:07:53 [INFO] [Vault][Permission] PermissionsBukkit hooked.
+2012-12-24 06:07:53 [INFO] [Vault][Permission] PermissionsBukkit found: Waiting
+2012-12-24 06:07:53 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-12-24 06:07:53 [INFO] [Vault] Enabled Version 1.2.20-b264
+2012-12-24 06:07:53 [INFO] [mcMMO] Enabling mcMMO v1.3.11-b1030
+2012-12-24 06:07:53 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-12-24 06:07:53 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-12-24 06:07:53 [INFO] [mcMMO] Loading mcMMO repair.vanilla.yml File...
+2012-12-24 06:07:53 [INFO] mcMMO version 1.3.11-b1030 is enabled!
+2012-12-24 06:07:53 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-24 06:07:53 [WARNING] Failed to save operators list: java.io.FileNotFoundException: ./ops.txt (Too many levels of symbolic links)
+2012-12-24 06:07:53 [INFO] Preparing level "world"
+2012-12-24 06:07:53 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-12-24 06:07:54 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-12-24 06:07:54 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-12-24 06:07:54 [INFO] Preparing spawn area: 52%
+2012-12-24 06:07:54 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-12-24 06:07:54 [SEVERE] Error occurred while enabling SilkSpawners v2.0.1 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/minecraft/server/EntityTypes
+	at me.exphc.SilkSpawners.SilkSpawners.scanEntityMap(SilkSpawners.java:548)
+	at me.exphc.SilkSpawners.SilkSpawners.loadConfig(SilkSpawners.java:578)
+	at me.exphc.SilkSpawners.SilkSpawners.onEnable(SilkSpawners.java:467)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at net.minecraft.server.v1_4_6.MinecraftServer.j(MinecraftServer.java:321)
+	at net.minecraft.server.v1_4_6.MinecraftServer.e(MinecraftServer.java:300)
+	at net.minecraft.server.v1_4_6.MinecraftServer.a(MinecraftServer.java:259)
+	at net.minecraft.server.v1_4_6.DedicatedServer.init(DedicatedServer.java:149)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:399)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.server.EntityTypes
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:70)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:247)
+	... 14 more
+2012-12-24 06:07:54 [INFO] [Lockette] Enabling Lockette v1.7.4
+2012-12-24 06:07:54 [INFO] [Lockette] Version 1.7.4 is being enabled!  Yay!  (Core version 1.3.5)
+2012-12-24 06:07:54 [INFO] [Lockette] Detected craftbukkit build [2551] ok.
+2012-12-24 06:07:54 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-12-24 06:07:54 [INFO] [Lockette] Ignoring linked plugins: [mcMMO]
+2012-12-24 06:07:54 [INFO] [Lockette] Loading strings file for English by Acru
+2012-12-24 06:07:54 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.11-b1030
+2012-12-24 06:07:54 [INFO] [Lockette] Using ops file for admin permissions.
+2012-12-24 06:07:54 [INFO] [Lockette] Ready to protect your containers.
+2012-12-24 06:07:55 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b646
+2012-12-24 06:07:55 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.5-b646
+2012-12-24 06:07:55 [INFO] Preparing start region for level 3 (Seed: -3021652546439280874)
+2012-12-24 06:07:56 [INFO] Preparing start region for level 4 (Seed: 453453)
+2012-12-24 06:07:56 [INFO] Preparing start region for level 5 (Seed: -4035248619903658227)
+2012-12-24 06:07:57 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-12-24 06:07:57 [INFO] [Multiverse-Core] Version 2.5-b646 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-12-24 06:07:57 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b662
+2012-12-24 06:07:57 [INFO] [Multiverse-Portals] - Version 2.5-b662 Enabled - By Rigby and fernferret
+2012-12-24 06:07:57 [INFO] [MVPLogging] 7 - Portals(s) loaded
+2012-12-24 06:07:57 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b305
+2012-12-24 06:07:57 [INFO] [Multiverse-Inventories 2.5-b305] enabled.
+2012-12-24 06:07:57 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-12-24 06:07:57 [INFO] [CreeperMess v1.2] Enabled!
+2012-12-24 06:07:57 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b643
+2012-12-24 06:07:57 [INFO] [Multiverse-NetherPortals] - Version 2.5-b643 Enabled - By Rigby and fernferret
+2012-12-24 06:07:57 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v1.6
+2012-12-24 06:07:57 [INFO] [PermissionsBukkit] Enabled successfully, 0 players registered
+2012-12-24 06:07:57 [INFO] [Lockette] Enabled link to plugin PermissionsBukkit for Groups, version 1.6
+2012-12-24 06:07:57 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-12-24 06:07:57 [SEVERE] Error occurred while enabling MobRider v0.45.2-b43 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/minecraft/server/Entity
+	at com.edwardhand.mobrider.MobRider.registerEvents(MobRider.java:59)
+	at com.edwardhand.mobrider.MobRider.onEnable(MobRider.java:80)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at net.minecraft.server.v1_4_6.MinecraftServer.j(MinecraftServer.java:321)
+	at net.minecraft.server.v1_4_6.MinecraftServer.e(MinecraftServer.java:300)
+	at net.minecraft.server.v1_4_6.MinecraftServer.a(MinecraftServer.java:259)
+	at net.minecraft.server.v1_4_6.DedicatedServer.init(DedicatedServer.java:149)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:399)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.server.Entity
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:70)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:247)
+	... 13 more
+2012-12-24 06:07:57 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-12-24 06:07:57 [INFO] Done (3.935s)! For help, type "help" or "?"
+2012-12-24 06:07:57 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 06:07:57 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-24 06:07:57 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 06:07:57 [INFO] CONSOLE: Forcing save..[m
+2012-12-24 06:07:57 [INFO] CONSOLE: Save complete.[m
+2012-12-24 06:07:57 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 06:07:57 [INFO] [35;1m[Server] Backup complete[m
+2012-12-24 08:51:23 [INFO] [mcMMO] Loading mcMMO spout.yml File...
+2012-12-24 08:51:23 [INFO] clarebel[/110.33.97.186:56111] logged in with entity id 3009 at ([world] 1843.4265570670912, 63.0, -1003.5236198121784)
+2012-12-24 08:56:06 [INFO] [mcMMO] Loading mcMMO tools.yml File...
+2012-12-24 08:56:06 [INFO] [mcMMO] Loading mcMMO armor.yml File...
+2012-12-24 08:56:06 [INFO] [mcMMO] Loading mcMMO blocks.yml File...
+2012-12-24 09:01:39 [INFO] Connection reset
+2012-12-24 09:01:39 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-24 09:01:59 [INFO] clarebel[/110.33.97.186:56123] logged in with entity id 6473 at ([world] 1822.995666876765, 63.0, -996.810560451582)
+2012-12-24 09:10:41 [INFO] clarebel was slain by Enderman
+2012-12-24 09:20:27 [INFO] Connection reset
+2012-12-24 09:20:27 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-24 09:29:07 [INFO] clarebel[/110.33.97.186:56205] logged in with entity id 11962 at ([world] 1801.599253255628, 62.0, -1015.392840887602)
+2012-12-24 10:23:30 [INFO] clarebel was slain by Zombie Pigman
+2012-12-24 10:29:18 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 66 in world, 6.0 blocks from clarebel
+2012-12-24 10:31:05 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 6.5 blocks from clarebel
+2012-12-24 10:31:53 [WARNING] clarebel moved wrongly!
+2012-12-24 10:44:18 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-24 10:44:18 [INFO] Connection reset
+2012-12-24 10:51:33 [INFO] clarebel[/110.33.97.186:57355] logged in with entity id 34719 at ([world] 1848.6730851470238, 63.0, -1012.6999999880791)
+2012-12-24 11:03:18 [INFO] There are 1/30 players online:
+clarebel[m
+2012-12-24 11:17:16 [INFO] clarebel lost connection: disconnect.quitting
+2012-12-24 11:17:16 [INFO] Connection reset
+2012-12-24 11:19:01 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-12-24 11:19:01 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-12-24 11:19:01 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v1.6
+2012-12-24 11:19:01 [INFO] [Lockette] Disabled link to plugin PermissionsBukkit, version 1.6
+2012-12-24 11:19:01 [INFO] [Vault][Permission] PermissionsBukkit un-hooked.
+2012-12-24 11:19:01 [INFO] [PermissionsBukkit] Disabled successfully, 0 players unregistered
+2012-12-24 11:19:01 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b643
+2012-12-24 11:19:01 [INFO] [Multiverse-NetherPortals] - Disabled
+2012-12-24 11:19:01 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-12-24 11:19:01 [INFO] [CreeperMess v1.2] Disabled!
+2012-12-24 11:19:01 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b305
+2012-12-24 11:19:01 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b662
+2012-12-24 11:19:01 [INFO] [mcMMO] Disabling mcMMO v1.3.11-b1030
+2012-12-24 11:19:01 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.11-b1030
+2012-12-24 11:19:02 [INFO] Backing up your mcMMO Configuration... 
+2012-12-24 11:19:02 [INFO] Backup Completed.
+2012-12-24 11:19:02 [INFO] mcMMO was disabled.
+2012-12-24 11:19:02 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b646
+2012-12-24 11:19:02 [INFO] [Vault] Disabling Vault v1.2.20-b264
+2012-12-24 11:19:02 [INFO] [Lockette] Disabling Lockette v1.7.4
+2012-12-24 11:19:02 [INFO] Lockette is being disabled...  ;.;
+2012-12-24 11:19:02 [INFO] [Lockette] Closing all automatic doors.
+2012-12-24 11:19:02 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-12-24 11:19:02 [INFO] SilkSpawners disabled
+2012-12-24 11:19:02 [INFO] 210 recipes
+2012-12-24 11:19:02 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-12-24 11:19:02 [INFO] [xServer] Loading xServer v0.2.7
+2012-12-24 11:19:02 [INFO] [Lockette] Loading Lockette v1.7.4
+2012-12-24 11:19:02 [INFO] [Vault] Loading Vault v1.2.20-b264
+2012-12-24 11:19:02 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b646
+2012-12-24 11:19:02 [INFO] [mcMMO] Loading mcMMO v1.3.11-b1030
+2012-12-24 11:19:02 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.5-b662
+2012-12-24 11:19:02 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b305
+2012-12-24 11:19:02 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-12-24 11:19:02 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b643
+2012-12-24 11:19:02 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v1.6
+2012-12-24 11:19:02 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-12-24 11:19:02 [INFO] [Vault] Enabling Vault v1.2.20-b264
+2012-12-24 11:19:02 [INFO] [Vault][Permission] PermissionsBukkit hooked.
+2012-12-24 11:19:02 [INFO] [Vault][Permission] PermissionsBukkit found: Waiting
+2012-12-24 11:19:02 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-12-24 11:19:02 [INFO] [Vault] Enabled Version 1.2.20-b264
+2012-12-24 11:19:02 [INFO] [mcMMO] Enabling mcMMO v1.3.11-b1030
+2012-12-24 11:19:02 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-12-24 11:19:02 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-12-24 11:19:02 [INFO] [mcMMO] Loading mcMMO repair.vanilla.yml File...
+2012-12-24 11:19:02 [INFO] mcMMO version 1.3.11-b1030 is enabled!
+2012-12-24 11:19:02 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-12-24 11:19:02 [SEVERE] Error occurred while enabling SilkSpawners v2.0.1 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/minecraft/server/EntityTypes
+	at me.exphc.SilkSpawners.SilkSpawners.scanEntityMap(SilkSpawners.java:548)
+	at me.exphc.SilkSpawners.SilkSpawners.loadConfig(SilkSpawners.java:578)
+	at me.exphc.SilkSpawners.SilkSpawners.onEnable(SilkSpawners.java:467)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.reload(CraftServer.java:587)
+	at org.bukkit.Bukkit.reload(Bukkit.java:184)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:186)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchCommand(CraftServer.java:510)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchServerCommand(CraftServer.java:502)
+	at net.minecraft.server.v1_4_6.DedicatedServer.al(DedicatedServer.java:260)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:225)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.server.EntityTypes
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:70)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:247)
+	... 19 more
+2012-12-24 11:19:02 [INFO] [xServer] Enabling xServer v0.2.7
+2012-12-24 11:19:02 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-12-24 11:19:02 [SEVERE] [xServer] Failed to create Socket - Client
+2012-12-24 11:19:02 [INFO] [Lockette] Enabling Lockette v1.7.4
+2012-12-24 11:19:02 [INFO] [Lockette] Version 1.7.4 is being enabled!  Yay!  (Core version 1.3.5)
+2012-12-24 11:19:02 [INFO] [Lockette] Detected craftbukkit build [2551] ok.
+2012-12-24 11:19:02 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-12-24 11:19:02 [INFO] [Lockette] Ignoring linked plugins: [mcMMO]
+2012-12-24 11:19:02 [INFO] [Lockette] Loading strings file for English by Acru
+2012-12-24 11:19:02 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.11-b1030
+2012-12-24 11:19:02 [INFO] [Lockette] Using ops file for admin permissions.
+2012-12-24 11:19:02 [INFO] [Lockette] Ready to protect your containers.
+2012-12-24 11:19:02 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b646
+2012-12-24 11:19:02 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.5-b646
+2012-12-24 11:19:03 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-12-24 11:19:03 [INFO] [Multiverse-Core] Version 2.5-b646 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-12-24 11:19:03 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b662
+2012-12-24 11:19:03 [INFO] [Multiverse-Portals] - Version 2.5-b662 Enabled - By Rigby and fernferret
+2012-12-24 11:19:03 [INFO] [MVPLogging] 7 - Portals(s) loaded
+2012-12-24 11:19:03 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b305
+2012-12-24 11:19:03 [INFO] [Multiverse-Inventories 2.5-b305] enabled.
+2012-12-24 11:19:03 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-12-24 11:19:03 [INFO] [CreeperMess v1.2] Enabled!
+2012-12-24 11:19:03 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b643
+2012-12-24 11:19:03 [INFO] [Multiverse-NetherPortals] - Version 2.5-b643 Enabled - By Rigby and fernferret
+2012-12-24 11:19:03 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v1.6
+2012-12-24 11:19:03 [INFO] [PermissionsBukkit] Enabled successfully, 0 players registered
+2012-12-24 11:19:03 [INFO] [Lockette] Enabled link to plugin PermissionsBukkit for Groups, version 1.6
+2012-12-24 11:19:04 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-12-24 11:19:04 [SEVERE] Error occurred while enabling MobRider v0.45.2-b43 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/minecraft/server/Entity
+	at com.edwardhand.mobrider.MobRider.registerEvents(MobRider.java:59)
+	at com.edwardhand.mobrider.MobRider.onEnable(MobRider.java:80)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.reload(CraftServer.java:587)
+	at org.bukkit.Bukkit.reload(Bukkit.java:184)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:186)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchCommand(CraftServer.java:510)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchServerCommand(CraftServer.java:502)
+	at net.minecraft.server.v1_4_6.DedicatedServer.al(DedicatedServer.java:260)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:225)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.server.Entity
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:70)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:247)
+	... 18 more
+2012-12-24 11:19:04 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-12-24 11:19:04 [INFO] CONSOLE: [32;1mReload complete.[m
+2012-12-24 11:19:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-24 11:21:12 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 11:21:15 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-12-24 11:21:15 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-12-24 11:21:15 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v1.6
+2012-12-24 11:21:15 [INFO] [Lockette] Disabled link to plugin PermissionsBukkit, version 1.6
+2012-12-24 11:21:15 [INFO] [Vault][Permission] PermissionsBukkit un-hooked.
+2012-12-24 11:21:15 [INFO] [PermissionsBukkit] Disabled successfully, 0 players unregistered
+2012-12-24 11:21:15 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b643
+2012-12-24 11:21:15 [INFO] [Multiverse-NetherPortals] - Disabled
+2012-12-24 11:21:15 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-12-24 11:21:15 [INFO] [CreeperMess v1.2] Disabled!
+2012-12-24 11:21:15 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b305
+2012-12-24 11:21:15 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b662
+2012-12-24 11:21:15 [INFO] [mcMMO] Disabling mcMMO v1.3.11-b1030
+2012-12-24 11:21:15 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.11-b1030
+2012-12-24 11:21:15 [INFO] Backing up your mcMMO Configuration... 
+2012-12-24 11:21:15 [INFO] Backup Completed.
+2012-12-24 11:21:15 [INFO] mcMMO was disabled.
+2012-12-24 11:21:15 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b646
+2012-12-24 11:21:15 [INFO] [Vault] Disabling Vault v1.2.20-b264
+2012-12-24 11:21:15 [INFO] [Lockette] Disabling Lockette v1.7.4
+2012-12-24 11:21:15 [INFO] Lockette is being disabled...  ;.;
+2012-12-24 11:21:15 [INFO] [Lockette] Closing all automatic doors.
+2012-12-24 11:21:15 [INFO] [xServer] Disabling xServer v0.2.7
+2012-12-24 11:21:15 [SEVERE] [xServer] Couldn't send packet
+2012-12-24 11:21:15 [SEVERE] [xServer] Couldn't send packet
+2012-12-24 11:21:15 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-12-24 11:21:15 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-12-24 11:21:15 [INFO] SilkSpawners disabled
+2012-12-24 11:21:15 [INFO] 210 recipes
+2012-12-24 11:21:15 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-12-24 11:21:15 [INFO] [xServer] Loading xServer v0.2.7
+2012-12-24 11:21:15 [INFO] [Lockette] Loading Lockette v1.7.4
+2012-12-24 11:21:15 [INFO] [Vault] Loading Vault v1.2.20-b264
+2012-12-24 11:21:15 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b646
+2012-12-24 11:21:15 [INFO] [mcMMO] Loading mcMMO v1.3.11-b1030
+2012-12-24 11:21:15 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.5-b662
+2012-12-24 11:21:15 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b305
+2012-12-24 11:21:15 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-12-24 11:21:15 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b643
+2012-12-24 11:21:15 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v1.6
+2012-12-24 11:21:15 [INFO] [Vault] Enabling Vault v1.2.20-b264
+2012-12-24 11:21:15 [INFO] [Vault][Permission] PermissionsBukkit hooked.
+2012-12-24 11:21:15 [INFO] [Vault][Permission] PermissionsBukkit found: Waiting
+2012-12-24 11:21:15 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-12-24 11:21:15 [INFO] [Vault] Enabled Version 1.2.20-b264
+2012-12-24 11:21:15 [INFO] [mcMMO] Enabling mcMMO v1.3.11-b1030
+2012-12-24 11:21:15 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-12-24 11:21:15 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-12-24 11:21:15 [INFO] [mcMMO] Loading mcMMO repair.vanilla.yml File...
+2012-12-24 11:21:15 [INFO] mcMMO version 1.3.11-b1030 is enabled!
+2012-12-24 11:21:15 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-12-24 11:21:15 [SEVERE] Error occurred while enabling SilkSpawners v2.0.1 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/minecraft/server/EntityTypes
+	at me.exphc.SilkSpawners.SilkSpawners.scanEntityMap(SilkSpawners.java:548)
+	at me.exphc.SilkSpawners.SilkSpawners.loadConfig(SilkSpawners.java:578)
+	at me.exphc.SilkSpawners.SilkSpawners.onEnable(SilkSpawners.java:467)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.reload(CraftServer.java:587)
+	at org.bukkit.Bukkit.reload(Bukkit.java:184)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:186)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchCommand(CraftServer.java:510)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchServerCommand(CraftServer.java:502)
+	at net.minecraft.server.v1_4_6.DedicatedServer.al(DedicatedServer.java:260)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:225)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.server.EntityTypes
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:70)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:247)
+	... 19 more
+2012-12-24 11:21:15 [INFO] [xServer] Enabling xServer v0.2.7
+2012-12-24 11:21:15 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-12-24 11:21:15 [INFO] [xServer] THIS SERVER IS HOST
+2012-12-24 11:21:15 [INFO] [xServer] Starting as Host
+2012-12-24 11:21:15 [INFO] [xServer] Connection made on port 33777
+2012-12-24 11:21:15 [INFO] Adding Client
+2012-12-24 11:21:15 [INFO] [Lockette] Enabling Lockette v1.7.4
+2012-12-24 11:21:15 [INFO] [Lockette] Version 1.7.4 is being enabled!  Yay!  (Core version 1.3.5)
+2012-12-24 11:21:15 [INFO] [Lockette] Detected craftbukkit build [2551] ok.
+2012-12-24 11:21:15 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-12-24 11:21:15 [INFO] [Lockette] Ignoring linked plugins: [mcMMO]
+2012-12-24 11:21:15 [INFO] [Lockette] Loading strings file for English by Acru
+2012-12-24 11:21:15 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.11-b1030
+2012-12-24 11:21:15 [INFO] [Lockette] Using ops file for admin permissions.
+2012-12-24 11:21:15 [INFO] [Lockette] Ready to protect your containers.
+2012-12-24 11:21:15 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b646
+2012-12-24 11:21:15 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.5-b646
+2012-12-24 11:21:15 [INFO] [xServer] Client connected to localhost:33777
+2012-12-24 11:21:15 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-12-24 11:21:15 [INFO] [Multiverse-Core] Version 2.5-b646 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-12-24 11:21:15 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b662
+2012-12-24 11:21:15 [INFO] [Multiverse-Portals] - Version 2.5-b662 Enabled - By Rigby and fernferret
+2012-12-24 11:21:15 [INFO] [MVPLogging] 7 - Portals(s) loaded
+2012-12-24 11:21:15 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b305
+2012-12-24 11:21:15 [INFO] [Multiverse-Inventories 2.5-b305] enabled.
+2012-12-24 11:21:15 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-12-24 11:21:15 [INFO] [CreeperMess v1.2] Enabled!
+2012-12-24 11:21:15 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b643
+2012-12-24 11:21:15 [INFO] [Multiverse-NetherPortals] - Version 2.5-b643 Enabled - By Rigby and fernferret
+2012-12-24 11:21:15 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v1.6
+2012-12-24 11:21:15 [INFO] [PermissionsBukkit] Enabled successfully, 0 players registered
+2012-12-24 11:21:15 [INFO] [Lockette] Enabled link to plugin PermissionsBukkit for Groups, version 1.6
+2012-12-24 11:21:15 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-12-24 11:21:16 [INFO] CONSOLE: [32;1mReload complete.[m
+2012-12-24 11:21:27 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 11:24:00 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v1.6
+2012-12-24 11:24:00 [INFO] [Lockette] Disabled link to plugin PermissionsBukkit, version 1.6
+2012-12-24 11:24:00 [INFO] [Vault][Permission] PermissionsBukkit un-hooked.
+2012-12-24 11:24:00 [INFO] [PermissionsBukkit] Disabled successfully, 0 players unregistered
+2012-12-24 11:24:00 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b643
+2012-12-24 11:24:00 [INFO] [Multiverse-NetherPortals] - Disabled
+2012-12-24 11:24:00 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-12-24 11:24:00 [INFO] [CreeperMess v1.2] Disabled!
+2012-12-24 11:24:00 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b305
+2012-12-24 11:24:00 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b662
+2012-12-24 11:24:00 [INFO] [mcMMO] Disabling mcMMO v1.3.11-b1030
+2012-12-24 11:24:00 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.11-b1030
+2012-12-24 11:24:00 [INFO] Backing up your mcMMO Configuration... 
+2012-12-24 11:24:00 [INFO] Backup Completed.
+2012-12-24 11:24:00 [INFO] mcMMO was disabled.
+2012-12-24 11:24:00 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b646
+2012-12-24 11:24:00 [INFO] [Vault] Disabling Vault v1.2.20-b264
+2012-12-24 11:24:00 [INFO] [Lockette] Disabling Lockette v1.7.4
+2012-12-24 11:24:00 [INFO] Lockette is being disabled...  ;.;
+2012-12-24 11:24:00 [INFO] [Lockette] Closing all automatic doors.
+2012-12-24 11:24:00 [INFO] [xServer] Disabling xServer v0.2.7
+2012-12-24 11:24:00 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-12-24 11:24:00 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-12-24 11:24:00 [SEVERE] [xServer] Exception in server
+2012-12-24 11:24:00 [INFO] SilkSpawners disabled
+2012-12-24 11:24:00 [SEVERE] java.net.SocketException: Socket closed
+2012-12-24 11:24:00 [SEVERE] 	at java.net.PlainSocketImpl.socketAccept(Native Method)
+2012-12-24 11:24:00 [SEVERE] 	at java.net.PlainSocketImpl.accept(PlainSocketImpl.java:408)
+2012-12-24 11:24:00 [SEVERE] 	at java.net.ServerSocket.implAccept(ServerSocket.java:462)
+2012-12-24 11:24:00 [SEVERE] 	at java.net.ServerSocket.accept(ServerSocket.java:430)
+2012-12-24 11:24:00 [SEVERE] 	at cbp.double0negative.xServer.Server.Server.run(Server.java:35)
+2012-12-24 11:24:00 [SEVERE] [xServer] Couldn't send packet
+2012-12-24 11:24:00 [INFO] 210 recipes
+2012-12-24 11:24:00 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-12-24 11:24:00 [INFO] [xServer] Loading xServer v0.2.7
+2012-12-24 11:24:00 [INFO] [Lockette] Loading Lockette v1.7.4
+2012-12-24 11:24:00 [INFO] [Vault] Loading Vault v1.2.20-b264
+2012-12-24 11:24:00 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b646
+2012-12-24 11:24:00 [INFO] [mcMMO] Loading mcMMO v1.3.11-b1030
+2012-12-24 11:24:00 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.5-b662
+2012-12-24 11:24:00 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b305
+2012-12-24 11:24:00 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-12-24 11:24:00 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b643
+2012-12-24 11:24:00 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v1.6
+2012-12-24 11:24:00 [INFO] [Vault] Enabling Vault v1.2.20-b264
+2012-12-24 11:24:00 [INFO] [Vault][Permission] PermissionsBukkit hooked.
+2012-12-24 11:24:00 [INFO] [Vault][Permission] PermissionsBukkit found: Waiting
+2012-12-24 11:24:00 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-12-24 11:24:00 [INFO] [Vault] Enabled Version 1.2.20-b264
+2012-12-24 11:24:00 [INFO] [mcMMO] Enabling mcMMO v1.3.11-b1030
+2012-12-24 11:24:00 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-12-24 11:24:00 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-12-24 11:24:00 [INFO] [mcMMO] Loading mcMMO repair.vanilla.yml File...
+2012-12-24 11:24:00 [INFO] mcMMO version 1.3.11-b1030 is enabled!
+2012-12-24 11:24:00 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-12-24 11:24:00 [SEVERE] Error occurred while enabling SilkSpawners v2.0.1 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/minecraft/server/EntityTypes
+	at me.exphc.SilkSpawners.SilkSpawners.scanEntityMap(SilkSpawners.java:548)
+	at me.exphc.SilkSpawners.SilkSpawners.loadConfig(SilkSpawners.java:578)
+	at me.exphc.SilkSpawners.SilkSpawners.onEnable(SilkSpawners.java:467)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.reload(CraftServer.java:587)
+	at org.bukkit.Bukkit.reload(Bukkit.java:184)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:186)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchCommand(CraftServer.java:510)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchServerCommand(CraftServer.java:502)
+	at net.minecraft.server.v1_4_6.DedicatedServer.al(DedicatedServer.java:260)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:225)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.server.EntityTypes
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:70)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:247)
+	... 19 more
+2012-12-24 11:24:00 [INFO] [xServer] Enabling xServer v0.2.7
+2012-12-24 11:24:00 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2012-12-24 11:24:00 [INFO] [xServer] THIS SERVER IS HOST
+2012-12-24 11:24:00 [INFO] [xServer] Starting as Host
+2012-12-24 11:24:00 [INFO] [xServer] Connection made on port 33777
+2012-12-24 11:24:00 [INFO] Adding Client
+2012-12-24 11:24:00 [INFO] [Lockette] Enabling Lockette v1.7.4
+2012-12-24 11:24:00 [INFO] [Lockette] Version 1.7.4 is being enabled!  Yay!  (Core version 1.3.5)
+2012-12-24 11:24:00 [INFO] [xServer] Client connected to localhost:33777
+2012-12-24 11:24:00 [INFO] [Lockette] Detected craftbukkit build [2551] ok.
+2012-12-24 11:24:00 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-12-24 11:24:00 [INFO] [Lockette] Ignoring linked plugins: [mcMMO]
+2012-12-24 11:24:00 [INFO] [Lockette] Loading strings file for English by Acru
+2012-12-24 11:24:00 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.11-b1030
+2012-12-24 11:24:00 [INFO] [Lockette] Using ops file for admin permissions.
+2012-12-24 11:24:00 [INFO] [Lockette] Ready to protect your containers.
+2012-12-24 11:24:00 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b646
+2012-12-24 11:24:00 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.5-b646
+2012-12-24 11:24:00 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-12-24 11:24:00 [INFO] [Multiverse-Core] Version 2.5-b646 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-12-24 11:24:00 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b662
+2012-12-24 11:24:00 [INFO] [Multiverse-Portals] - Version 2.5-b662 Enabled - By Rigby and fernferret
+2012-12-24 11:24:00 [INFO] [MVPLogging] 7 - Portals(s) loaded
+2012-12-24 11:24:00 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b305
+2012-12-24 11:24:00 [INFO] [Multiverse-Inventories 2.5-b305] enabled.
+2012-12-24 11:24:00 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-12-24 11:24:00 [INFO] [CreeperMess v1.2] Enabled!
+2012-12-24 11:24:00 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b643
+2012-12-24 11:24:00 [INFO] [Multiverse-NetherPortals] - Version 2.5-b643 Enabled - By Rigby and fernferret
+2012-12-24 11:24:00 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v1.6
+2012-12-24 11:24:00 [INFO] [PermissionsBukkit] Enabled successfully, 0 players registered
+2012-12-24 11:24:00 [INFO] [Lockette] Enabled link to plugin PermissionsBukkit for Groups, version 1.6
+2012-12-24 11:24:00 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-12-24 11:24:01 [INFO] CONSOLE: [32;1mReload complete.[m
+2012-12-24 11:25:05 [INFO] [xServer] Connection made on port 33777
+2012-12-24 11:25:05 [INFO] Adding Client
+2012-12-24 11:25:05 [INFO] [34;1m[xServer] Tekkit has connected[m
+2012-12-24 11:25:07 [INFO] [Tekkit] nightkhaos has joined the game[m
+2012-12-24 11:25:29 [INFO] [Tekkit] nightkhaos: next time give us more than 30 seconds warning eh?[m
+2012-12-24 11:25:55 [INFO] [Tekkit] bezelbub has joined the game[m
+2012-12-24 11:26:10 [INFO] [Tekkit] nightkhaos: ... get a better ssh connection.[m
+2012-12-24 11:26:17 [INFO] [Tekkit] nightkhaos: i.e. move to France[m
+2012-12-24 11:26:29 [INFO] [Tekkit] nightkhaos: pfft, you call yourself a tech admin.[m
+2012-12-24 11:26:52 [INFO] [Tekkit] Yinsano has joined the game[m
+2012-12-24 11:45:22 [INFO] [Tekkit] nightkhaos: That was us making circuits, manually[m
+2012-12-24 11:45:36 [INFO] [Tekkit] nightkhaos: and the MFSUs was lag related... my morning star "double clicked" destorying the MFSU[m
+2012-12-24 11:45:53 [INFO] [Tekkit] nightkhaos: So I replaced the machine block with 1 MFSU, deleting the other 63.[m
+2012-12-24 11:46:51 [INFO] [Tekkit] nightkhaos: The lag isn't bad, apart from the double click bug. I should stop[m
+2012-12-24 11:46:55 [INFO] [Tekkit] nightkhaos: using morning stars. xD[m
+2012-12-24 11:49:23 [INFO] [Tekkit] Yinsano: Checks?[m
+2012-12-24 11:49:42 [INFO] [Tekkit] Yinsano: hmm, may be my connection[m
+2012-12-24 11:50:12 [INFO] [Tekkit] Yinsano: not noticably[m
+2012-12-24 12:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 12:00:01 [INFO] [35;1m[Server] Server restarting in 5 minutes[m
+2012-12-24 12:03:28 [INFO] [mcMMO] Loading mcMMO spout.yml File...
+2012-12-24 12:03:28 [INFO] clarebel[/110.33.97.186:57429] logged in with entity id 47069 at ([world] 1791.048566826954, 63.0, -974.560346200612)
+2012-12-24 12:03:29 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:30 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:31 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:32 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:33 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:34 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:35 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:36 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:37 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:38 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:39 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:39 [INFO] [Tekkit] bezelbub: new name![m
+2012-12-24 12:03:39 [INFO] [mcMMO] Loading mcMMO tools.yml File...
+2012-12-24 12:03:39 [INFO] [mcMMO] Loading mcMMO armor.yml File...
+2012-12-24 12:03:39 [INFO] [mcMMO] Loading mcMMO blocks.yml File...
+2012-12-24 12:03:40 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:41 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:41 [INFO] [Tekkit] nightkhaos: hai[m
+2012-12-24 12:03:42 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:43 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:44 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:45 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:46 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:47 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:48 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:48 [INFO] [Tekkit] nightkhaos: can you sees us clare?[m
+2012-12-24 12:03:49 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:50 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:51 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:52 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:53 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:54 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:55 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:56 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:57 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:58 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:03:59 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:00 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:01 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 12:04:01 [INFO] [35;1m[Server] Server restarting in 1 minute[m
+2012-12-24 12:04:02 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:03 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:04 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:05 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:05 [INFO] [[34;1mStatic[37;1m]<clarebel> yes, not sure who you are though[m
+2012-12-24 12:04:06 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:07 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:08 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:09 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:10 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:11 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:11 [INFO] [Tekkit] nightkhaos: I'm taylor[m
+2012-12-24 12:04:12 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:13 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:14 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:15 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:16 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:17 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:18 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:19 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:20 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:21 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:22 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:23 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:23 [INFO] [Tekkit] Yinsano: I'm paul[m
+2012-12-24 12:04:24 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:25 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:26 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:27 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:28 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:29 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:30 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:31 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:31 [INFO] [[34;1mStatic[37;1m]<clarebel> hey taylor, whataboue bezelbub?[m
+2012-12-24 12:04:32 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:33 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:34 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:34 [INFO] [Tekkit] bezelbub: im pauls brother karl[m
+2012-12-24 12:04:35 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:36 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:37 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:38 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:39 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:40 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:41 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:42 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:43 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:44 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:45 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:46 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:47 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:48 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:49 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:50 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:51 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:51 [INFO] [[34;1mStatic[37;1m]<clarebel> coolio, so you are all in the tekkit world?[m
+2012-12-24 12:04:52 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:53 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:54 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:55 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:56 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:57 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:58 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:04:59 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:05:00 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:05:01 [WARNING] [mcMMO] Task #109 for mcMMO v1.3.11-b1030 generated an exception
+java.lang.NullPointerException
+	at com.gmail.nossr50.util.Skills.watchCooldown(Skills.java:83)
+	at com.gmail.nossr50.runnables.SkillMonitor.run(SkillMonitor.java:41)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_4_6.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:530)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-24 12:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 12:05:01 [INFO] [35;1m[Server] Starting backup[m
+2012-12-24 12:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 12:05:01 [INFO] CONSOLE: Forcing save..[m
+2012-12-24 12:05:01 [INFO] CONSOLE: Save complete.[m
+2012-12-24 12:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 12:05:01 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-24 12:05:01 [INFO] Unknown command. Type "help" for help.[m
+2012-12-24 12:05:01 [INFO] CONSOLE: Stopping the server..[m
+2012-12-24 12:05:01 [INFO] Stopping server
+2012-12-24 12:05:01 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v1.6
+2012-12-24 12:05:01 [INFO] [Lockette] Disabled link to plugin PermissionsBukkit, version 1.6
+2012-12-24 12:05:01 [INFO] [Vault][Permission] PermissionsBukkit un-hooked.
+2012-12-24 12:05:01 [INFO] [PermissionsBukkit] Disabled successfully, 1 players unregistered
+2012-12-24 12:05:01 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b643
+2012-12-24 12:05:01 [INFO] [Multiverse-NetherPortals] - Disabled
+2012-12-24 12:05:01 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-12-24 12:05:01 [INFO] [CreeperMess v1.2] Disabled!
+2012-12-24 12:05:01 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b305
+2012-12-24 12:05:01 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b662
+2012-12-24 12:05:01 [INFO] [mcMMO] Disabling mcMMO v1.3.11-b1030
+2012-12-24 12:05:01 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.11-b1030
+2012-12-24 12:05:01 [INFO] Backing up your mcMMO Configuration... 
+2012-12-24 12:05:01 [INFO] Backup Completed.
+2012-12-24 12:05:01 [INFO] mcMMO was disabled.
+2012-12-24 12:05:01 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b646
+2012-12-24 12:05:01 [INFO] [Vault] Disabling Vault v1.2.20-b264
+2012-12-24 12:05:01 [INFO] [Lockette] Disabling Lockette v1.7.4
+2012-12-24 12:05:01 [INFO] Lockette is being disabled...  ;.;
+2012-12-24 12:05:01 [INFO] [Lockette] Closing all automatic doors.
+2012-12-24 12:05:01 [INFO] [xServer] Disabling xServer v0.2.7
+2012-12-24 12:05:01 [SEVERE] [xServer] Could not read packet
+2012-12-24 12:05:01 [INFO] [36;1m[XServer] Disconnecting from host[m
+2012-12-24 12:05:01 [SEVERE] [xServer] Exception in server
+2012-12-24 12:05:01 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-12-24 12:05:01 [SEVERE] java.net.SocketException: Socket closed
+2012-12-24 12:05:01 [INFO] SilkSpawners disabled
+2012-12-24 12:05:01 [SEVERE] 	at java.net.PlainSocketImpl.socketAccept(Native Method)
+2012-12-24 12:05:01 [WARNING] DSCT: Socket closed
+2012-12-24 12:05:01 [SEVERE] 	at java.net.PlainSocketImpl.accept(PlainSocketImpl.java:408)
+2012-12-24 12:05:01 [INFO] Saving players
+2012-12-24 12:05:01 [SEVERE] 	at java.net.ServerSocket.implAccept(ServerSocket.java:462)
+2012-12-24 12:05:01 [INFO] Closing listening thread
+2012-12-24 12:05:01 [SEVERE] 	at java.net.ServerSocket.accept(ServerSocket.java:430)
+2012-12-24 12:05:01 [SEVERE] 	at cbp.double0negative.xServer.Server.Server.run(Server.java:35)
+2012-12-24 12:05:01 [INFO] Saving worlds
+2012-12-24 12:05:01 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-24 12:05:03 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-12-24 12:05:03 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-12-24 12:05:03 [INFO] Saving chunks for level 'fluid'/Overworld
+2012-12-24 12:05:03 [INFO] Saving chunks for level 'creative'/Overworld
+2012-12-24 12:05:03 [INFO] Saving chunks for level 'fluid_nether'/Nether
+2012-12-24 12:05:03 [INFO] Stopping server
+2012-12-24 12:05:03 [INFO] Saving players
+2012-12-24 12:05:03 [INFO] Saving worlds
