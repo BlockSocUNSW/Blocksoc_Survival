@@ -20,3 +20,18 @@
 2012-09-30 14:16:21,933	INFO	Git push done.
 2012-09-30 14:16:26,947	INFO	Backup done.
 2012-09-30 14:16:26,947	INFO	
+2013-01-05 19:16:22,328	CRITICAL	Command failed: [mc_survival] say Server restarting in 5 minutes
+2013-01-05 19:20:22,404	CRITICAL	Command failed: [mc_survival] say Server restarting in 1 minute
+2013-01-05 19:21:22,416	INFO	Starting backup process for: 05-01-13-19-21-22
+2013-01-05 19:21:22,418	CRITICAL	Command failed: [mc_survival] say Starting backup
+2013-01-05 19:21:22,421	CRITICAL	Command failed: [mc_survival] save-all
+2013-01-05 19:21:22,424	CRITICAL	Command failed: [mc_survival] save-off
+2013-01-05 19:21:22,426	CRITICAL	Command failed: [mc_survival] stop
+2013-01-05 19:21:25,505	INFO	Current Backups: 
+2013-01-05 19:21:25,505	INFO	    02-12-12-18-05-02:1354467905.tar
+2013-01-05 19:21:25,505	INFO	    09-12-12-18-05-02:1355072705.tar
+2013-01-05 19:21:25,505	INFO	    16-12-12-18-05-47:1355677553.tar
+2013-01-05 19:21:25,505	INFO	    23-12-12-18-05-02:1356282305.tar
+2013-01-05 19:36:09,258	INFO	Removing path: /home/minecraft/survival/backups/02-12-12-18-05-02:1354467905.tar
+2013-01-05 19:36:10,567	INFO	Tar check done.
+2013-01-05 19:36:10,568	INFO	Pushing to git.
